@@ -1,0 +1,63 @@
+Devon Knight
+devon.donald.knight@gmail.com (647) 920-3519 | linkedin.com/in/devonknight | github.com/Devcon324
+EDUCATION
+B.A.Sc. Software Engineering (Mandatory Co-Op, Upcoming Winter 2024, Fall 2024)	Ottawa, ON, Canada
+The University of Ottawa, Current GPA: 3.9 / 4.0	September 2022 – August 2026
+* Coursework: Digital Logic, Computer Architecture, Linear Algebra, Data Structures and Algorithms, Mobile Apps.
+* Societies: uOttaHack, Engineering Student Society, Carleton Dragonboat Team, Deans Honor Roll.
+
+H.B.Sc. Biology, Major in Microbiology and Immunology	London, ON, Canada
+The University of Western Ontario, In-major GPA: 3.9 / 4.0	Conferred July 2019
+
+WORK EXPERIENCE
+Software Developer	Kanata, ON, Canada
+Ciena	May 2023 – Present
+* Co-led an implementation of a NoSQL MongoDB database feature across 47 microservices by efficiently handling 24+ JIRA’s across 18 repositories using DevOps tools, Confluence, Unix, Linux, Bitbucket, and Git.
+* Implemented a novel Python unit test framework with 17 automated tests, reducing development time when running Jenkins builds by ensuring compliance to design by running tests in an impressive 0.10 seconds.
+* Collaborated with an international team of 15 software engineers in debugging and enhancing data communication infrastructure in Python and C, resulting in improved product development and customer satisfaction.
+
+Web Application Consultant	Provo, UT, USA
+Curve Dental Software	July 2022 – May 2023
+* Led the seamless integration of our cloud-based web app by consulting 7+ client teams of up to 12 people.
+* Collaborated with an interdisciplinary team of 52 for client consulting for migrating databases and integration.
+* Improved the continuous development of Curve SaaS by compiling user stories for beneficial features.
+
+System Administrator	Georgetown, ON, Canada
+Young Dentistry	February 2021 – July 2022
+* Appointed as Project Manager to spearhead a clinic software overhaul and data migration of 10 workstations, 4 medical X-ray radiographers, and 1 server to integrate Curve, an efficient cloud-based web app for dental clinics.
+* Developed automation scripts and provided software training that led to a 29.6% increase in business income.
+
+Machine Learning Clinical Research Assistant	Toronto, ON, Canada
+The University of Toronto,	June/2019 – February 2022
+* Quantified how artificial intelligence enhanced surgical recovery through 7 statistical reports built with Excel.
+* Effectively compiled quantitative and qualitative statistical data from 28 patients and showed that AI chatbots have an 83% positive impact on the user experience during post-operative recovery within 6 months.
+
+Computational Genetics Research Student	London, ON, Canada
+The University of Western Ontario	July 2018 – May 2019
+* Predicted cancer potential of 4 genes using Linux, Python and 3D modelling, which guided funding allocation.
+* Presented at 4 Canadian conferences, receiving 3rd place out of 26 national research students in Ontario-Quebec.
+* Co-authored a peer-reviewed article with over 1000 downloads and 5 citations, DOI 10.1128/MCB.00189-20
+
+LEADERSHIP & PROJECTS
+International Experience Scholarship, Awarded by the Dean of Engineering	October 2023
+* Traveled to Tec de Monterrey in Monterrey Mexico to represent the University of Ottawa diversity partner efforts.
+* Shared my experience leading the university’s hackathon at the World Engineering Education Forum.
+* Facilitated cross-institutional collaboration to host 800+ students across the world for an international event.
+
+Software Developer and Director, uOttaHack (Canada’s Capital Hackathon for 6 years)	September 2022 – Present
+* uOttaApp: Built with Typescript, React Native, and Firebase to track 600 attendees’ event data and workshops.
+* Collaborated with 18 organizers to build a new webpage, and event tracker web app, using NodeJS, and ReactJS.
+* Accelerated our dev strategies (2023 site & live site), marketing (44.8k views), and sponsorship (raised $54K).
+* Director of Software Community: established international tech diversity and inclusion from Mexico and Chile.
+
+Dungeons and Dragons Buddy	github.com/Devcon324/DandD_Buddy
+* Scripting app using object-oriented design, Python, JSON, Selenium web-scraping, and the Discord.py API.
+* Implemented a search algorithm that parses over 149 pages of data to provide an efficient player experience.
+
+Harvard University CS50 Intro to Computer Science	github.com/Devcon324/Harvard_CS50
+* Developed 21 projects solving real-world problems with C, Python, SQL, HTML, CSS, and JavaScript.
+* Introduced to algorithms and data structures, databases, and web applications through a 10-week course.
+
+SKILLS & INTERESTS
+Languages: Python, C, C#, R, Java, HTML, CSS, JavaScript, TypeScript.
+Technologies: Git, Jenkins, Linux, Unix, Bash, ReactJS, React Native, MongoDB, SQLite, SQL, NoSQL, REST, JSON.
