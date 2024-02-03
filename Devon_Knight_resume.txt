@@ -1,63 +1,56 @@
-Devon Knight
-devon.donald.knight@gmail.com (647) 920-3519 | linkedin.com/in/devonknight | github.com/Devcon324
-EDUCATION
-B.A.Sc. Software Engineering (Mandatory Co-Op, Upcoming Winter 2024, Fall 2024)	Ottawa, ON, Canada
-The University of Ottawa, Current GPA: 3.9 / 4.0	September 2022 – August 2026
-* Coursework: Digital Logic, Computer Architecture, Linear Algebra, Data Structures and Algorithms, Mobile Apps.
-* Societies: uOttaHack, Engineering Student Society, Carleton Dragonboat Team, Deans Honor Roll.
+Devon Knight: Software Engineer Intern Fall 2024
 
-H.B.Sc. Biology, Major in Microbiology and Immunology	London, ON, Canada
-The University of Western Ontario, In-major GPA: 3.9 / 4.0	Conferred July 2019
+ devon.donald.knight@gmail.com	|	 (647) 920-3519	|	 linkedin.com/in/devonknight	|	 github.com/Devcon324
+
+EDUCATION
+B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
+* GPA: 3.9 / 4.0	: Digital Logic, Computer Architecture, Linear Algebra, Data Structures and Algorithms, Mobile Apps.
+* World-Champion Dragonboater, Class Representative, Engineering Sponsorship manager, Deans Honor Roll.
+H.B.Sc. Immunology GPA: 3.9 / 4.0	Western University	London, ON, Canada, 07/2019
+
+SKILLS
+* Proficient: Python, C, Java, HTML, CSS, JavaScript, UML, Shell, Git, Jenkins, Linux, GitHub, Android Studio.
+* Experienced: Unix, Bash, ReactJS, React Native, MongoDB, SQLite, SQL, NoSQL, REST, JSON.
+* Base Knowledge: Unity, C++, C#, TypeScript, Assembly, Groovy, Maven, Gradle, Node.js, NEXT.js.
 
 WORK EXPERIENCE
-Software Developer	Kanata, ON, Canada
-Ciena	May 2023 – Present
-* Co-led an implementation of a NoSQL MongoDB database feature across 47 microservices by efficiently handling 24+ JIRA’s across 18 repositories using DevOps tools, Confluence, Unix, Linux, Bitbucket, and Git.
+DevOps Engineer Intern	 Royal Bank of Canada 	Toronto, ON, Canada, 01/2024 – 04/2024
+* Optimizing the deployment process for RBC SRE/software engineers via an automated CI/CD pipeline through the use of Jenkins, Java, Scala, Groovy, Gradle, and Maven, for shorter build times and expedite feature releases.
+* Coordinating across 12 different organization repositories to integrate our novel pipeline and collecting metrics to later conduct data-processing and identify sources of development lag phases that can be expedited.
+
+Software Developer Intern	 Ciena 	Kanata, ON, Canada, 05/2023 – 12/2024
+* Co-led an implementation of a backend, NoSQL MongoDB database feature across 47 microservices by efficiently handling 24+ JIRA’s across 18 repositories using DevOps tools, Confluence, Shell, Linux, Bitbucket, and Git.
 * Implemented a novel Python unit test framework with 17 automated tests, reducing development time when running Jenkins builds by ensuring compliance to design by running tests in an impressive 0.10 seconds.
 * Collaborated with an international team of 15 software engineers in debugging and enhancing data communication infrastructure in Python and C, resulting in improved product development and customer satisfaction.
 
-Web Application Consultant	Provo, UT, USA
-Curve Dental Software	July 2022 – May 2023
-* Led the seamless integration of our cloud-based web app by consulting 7+ client teams of up to 12 people.
-* Collaborated with an interdisciplinary team of 52 for client consulting for migrating databases and integration.
-* Improved the continuous development of Curve SaaS by compiling user stories for beneficial features.
-
-System Administrator	Georgetown, ON, Canada
-Young Dentistry	February 2021 – July 2022
-* Appointed as Project Manager to spearhead a clinic software overhaul and data migration of 10 workstations, 4 medical X-ray radiographers, and 1 server to integrate Curve, an efficient cloud-based web app for dental clinics.
-* Developed automation scripts and provided software training that led to a 29.6% increase in business income.
-
-Machine Learning Clinical Research Assistant	Toronto, ON, Canada
-The University of Toronto,	June/2019 – February 2022
+Machine Learning Researcher	 University of Toronto 	Toronto, ON, Canada, 06/2019 – 02/2022
 * Quantified how artificial intelligence enhanced surgical recovery through 7 statistical reports built with Excel.
 * Effectively compiled quantitative and qualitative statistical data from 28 patients and showed that AI chatbots have an 83% positive impact on the user experience during post-operative recovery within 6 months.
 
-Computational Genetics Research Student	London, ON, Canada
-The University of Western Ontario	July 2018 – May 2019
+Computational Genetics Researcher	 Western University 	London, ON, Canada, 06/2018 – 05/2019
 * Predicted cancer potential of 4 genes using Linux, Python and 3D modelling, which guided funding allocation.
 * Presented at 4 Canadian conferences, receiving 3rd place out of 26 national research students in Ontario-Quebec.
-* Co-authored a peer-reviewed article with over 1000 downloads and 5 citations, DOI 10.1128/MCB.00189-20
+* Co-authored 2 peer-reviewed research papers collectively achieving 1,000+ downloads and 5 citations.
 
-LEADERSHIP & PROJECTS
-International Experience Scholarship, Awarded by the Dean of Engineering	October 2023
-* Traveled to Tec de Monterrey in Monterrey Mexico to represent the University of Ottawa diversity partner efforts.
-* Shared my experience leading the university’s hackathon at the World Engineering Education Forum.
-* Facilitated cross-institutional collaboration to host 800+ students across the world for an international event.
+PROJECTS
+Co.Med 	UofT Hacks 11	 github.com/uOttaHackUofT/Co.med
+* Reduced hospital overload by building an AI-assisted hospital triage system with REST, Next.js, and Cohere’s Large-Language Model to provide a suggested diagnosis, course of action, and triage level with ranked references.
 
-Software Developer and Director, uOttaHack (Canada’s Capital Hackathon for 6 years)	September 2022 – Present
-* uOttaApp: Built with Typescript, React Native, and Firebase to track 600 attendees’ event data and workshops.
-* Collaborated with 18 organizers to build a new webpage, and event tracker web app, using NodeJS, and ReactJS.
-* Accelerated our dev strategies (2023 site & live site), marketing (44.8k views), and sponsorship (raised $54K).
-* Director of Software Community: established international tech diversity and inclusion from Mexico and Chile.
+uOttaApp 	uOttaHack Dev Team	 github.com/Devcon324/uOttaApp
+* Developed an event tracker mobile app that tracked 600+ attendees’ workshop attendance, food vouchers, and raffle tickets by building a full-stack mobile app with React Native, HTML, CSS, JavaScript and Firebase 
 
-Dungeons and Dragons Buddy	github.com/Devcon324/DandD_Buddy
-* Scripting app using object-oriented design, Python, JSON, Selenium web-scraping, and the Discord.py API.
-* Implemented a search algorithm that parses over 149 pages of data to provide an efficient player experience.
+Dungeons and Dragons Buddy 	Devon Knight	 github.com/Devcon324/DandD_Buddy
+* Improved player experience by implementing a search algorithm that parses over 149 pages of data to generate game content by using object-oriented design, Python, JSON, Selenium web-scraping, and the Discord.py API.
 
-Harvard University CS50 Intro to Computer Science	github.com/Devcon324/Harvard_CS50
-* Developed 21 projects solving real-world problems with C, Python, SQL, HTML, CSS, and JavaScript.
-* Introduced to algorithms and data structures, databases, and web applications through a 10-week course.
+LEADERSHIP
+Software Developer ? Director 	uOttaHack (Canada’s Capital Hackathon c.2018)	11/2022 – Present
+* Fostered a community of 600+ students within 4 months by leading workshops, intern panels, and company events.
+* Coordinated a 500+ student hackathon by building an official site and live-event site using NodeJS, and ReactJS.
+* Yielded marketing impact of 44.8k views, and $54,000 in sponsorship in one year by introducing new team strategies.
 
-SKILLS & INTERESTS
-Languages: Python, C, C#, R, Java, HTML, CSS, JavaScript, TypeScript.
-Technologies: Git, Jenkins, Linux, Unix, Bash, ReactJS, React Native, MongoDB, SQLite, SQL, NoSQL, REST, JSON.
+Speaker & Panelist	Canadian Undergraduate Software Engineering Conference	01/2024
+* Presented as a keynote speaker to 400+ students and professionals on the approach of software engineering coming from another discipline of medical science and philosophies of success that translate to the technology field.
+* Deliberated the commonalities of careers in tech and health-academic research with discussion about machine learning, life as a published scientist, how research expanded my critical thinking, 
+
+International Experience Scholarship 	Dean of Engineering	10/2023
+* One of two leaders selected to foster a partnership between uOttaHack and Tec de Monterrey, MEX students to facilitate a cross-institutional collaboration to host 800+ students across the world for an international hackathon.
