@@ -4,13 +4,13 @@ Devon Knight: Software Engineer Co-Op Internship Fall 2024
 EDUCATION
 B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
 * GPA: 3.9 / 4.0	: Digital Logic, Computer Architecture, Linear Algebra, Data Structures and Algorithms.
-* Repping Canada at Dragonboat World Italy 2024, Class Rep, Sponsorship Manager, Deans Honor Roll.
+* Repping Canada at Dragonboat Worlds Italy 2024, Class Rep, Sponsorship Manager, Deans Honor Roll.
 H.B.Sc. Medical Science GPA: 3.9 / 4.0 	Western University	London, ON, Canada, 07/2019
 
 SKILLS
 * Proficient: Python, C, Java, Docker, HTML, CSS, UML, Firebase, Splunk, Git, Linux, GitHub.
 * Experienced: Unix, Bash, Shell, ReactJS/Native, JavaScript, MongoDB, SQLite, SQL, NoSQL, REST, JSON.
-* Beginner: C++, C#, Android, TypeScript, Assembly, Groovy, Jenkins, Maven, Gradle, K8s, Node, NEXT, R.
+* Beginner: C++, C#, Android, TypeScript, Assembly, Groovy, Jenkins, Maven, Gradle, Kubernetes, Node, NEXT, R.
 
 WORK EXPERIENCE
 DevOps Engineer Intern 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 04/2024
