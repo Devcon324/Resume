@@ -16,7 +16,7 @@ WORK EXPERIENCE
 DevOps Engineer Intern 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 04/2024
 * Reduced deployment time by 15 minutes per developer by writing automation scripts in Groovy and Shell that set up security and Gradle builds such as HTTP proxy, Jenkins, and Open-Shift Container Platform.
 * Implemented the latest GitHub Actions/Runners with Google’s Bazel Built Tool to build Docker Images and run Docker Containers on a Kubernetes Server, reducing complexity for developers.
-* Built an automated DevOps Research Assessment data dashboard of our pipeline that builds 12 Applications using IBM Urban Code Deploy, Shell, and Splunk so tech-leads easily manage large product deployments.
+* Designed an automated DevOps Research Assessment dashboard of our pipeline that builds 12 Applications using IBM Urban Code Deploy, Shell, and Splunk so tech-leads easily manage large product deployments.
 
 Software Developer Intern 	Ciena	 Kanata, ON, Canada, 05/2023 – 12/2023
 * Co-led an implementation of a Backend NoSQL MongoDB database feature across 47 microservices by leading 24+ JIRA’s across 18 repositories using C, Python, Jenkins, Shell, Linux, Bitbucket, and Git.
