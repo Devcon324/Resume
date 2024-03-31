@@ -5,7 +5,7 @@ Hi, I’m Devon! I’m a Software Engineering student with a previous career in Heal
 
 EDUCATION
 B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
-* GPA: 3.9 / 4.0	: Digital Logic, Computer Architecture, Linear Algebra, Data Structures and Algorithms.
+* GPA: 3.9 / 4.0	: Digital Logic, Computer Architecture, Linear Algebra, Data Structures and Algorithms, Android Dev.
 * Repping Canada at Dragonboat Worlds Italy 2024, Class Rep, Sponsorship Manager, Deans Honor Roll.
 H.B.Sc. Medical Science GPA: 3.9 / 4.0 	Western University	London, ON, Canada, 07/2019
 
