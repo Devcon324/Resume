@@ -47,7 +47,7 @@ Dungeons and Dragons Buddy 	Devon Knight	 github.com/Devcon324/DandD_Buddy
 * Built by using object-oriented design, Python, JSON, Selenium web-scraping, and the Discord.py API.
 
 LEADERSHIP
-Developer ? Director 	uOttaHack (Canada’s Capital Hackathon c.2018)	 11/2022 – Present
+Software Developer ? Director 	uOttaHack	 11/2022 – Present
 * Fostered a community of 850+ students within 4 months by leading company and university collaborations.
 * Coordinated an 800+ student hackathon by building an official site and live-event site using Node/ReactJS.
 * Yielded an annual marketing impact of 44.8k views, and 25 Company Partners with new team strategies.
