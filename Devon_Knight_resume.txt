@@ -1,6 +1,8 @@
 Devon Knight: Software Engineer Co-Op Internship Fall 2024
  devon.donald.knight@gmail.com	|	 (647) 920-3519	|	 linkedin.com/in/devonknight	|	 github.com/Devcon324
 
+Hi, I’m Devon! I’m a Software Engineering student with a previous career in Health-Tech Research. I am open to any Development roles with interest in Graphics, Ai, Gaming, Health, Embedded, Network, & Full-Stack
+
 EDUCATION
 B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
 * GPA: 3.9 / 4.0	: Digital Logic, Computer Architecture, Linear Algebra, Data Structures and Algorithms.
@@ -13,27 +15,28 @@ SKILLS
 * Beginner: C++, C#, Android, TypeScript, Assembly, Groovy, Jenkins, Maven, Gradle, Kubernetes, Node, NEXT, R.
 
 WORK EXPERIENCE
-DevOps Engineer Intern 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 04/2024
+DevOps Engineer Co-Op Intern 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – Present
 * Reduced deployment time by 15 minutes per developer by writing automation scripts in Groovy and Shell that set up security and Gradle builds such as HTTP proxy, Jenkins, and Open-Shift Container Platform.
-* Implemented the latest GitHub Actions/Runners with Google’s Bazel Built Tool to build Docker Images and run Docker Containers on a Kubernetes Server, reducing complexity for developers.
+* Implemented the latest GitHub Actions and GitHub Runners with Google’s Bazel Built Tool to build Docker Images and run Docker Containers on a Kubernetes Server, reducing complexity for developers.
 * Designed an automated DevOps Research Assessment dashboard of our pipeline that builds 12 Applications using IBM Urban Code Deploy, Shell, and Splunk so tech-leads easily manage large product deployments.
 
-Software Developer Intern 	Ciena	 Kanata, ON, Canada, 05/2023 – 12/2023
-* Co-led an implementation of a Backend NoSQL MongoDB database feature across 47 microservices by leading 24+ JIRA’s across 18 repositories using C, Python, Jenkins, Shell, Linux, Bitbucket, and Git.
+Software Developer Co-Op Intern 	Ciena	 Kanata, ON, Canada, 05/2023 – 12/2023
+* Co-led an implementation of a Backend NoSQL MongoDB database feature across 47 microservices by leading 24+ JIRA’s across 18 repositories using C, Python, JSON, Jenkins, Shell, Linux, Bitbucket, and Git.
 * Implemented a novel Python Unit Test framework with 17 automated tests, reducing development time when running Jenkins builds by ensuring compliance to design by running tests in an impressive 0.10 seconds.
 
 Machine Learning Researcher 	University of Toronto	 Toronto, ON, Canada, 06/2019 – 02/2022
-* Effectively compiled quantitative and qualitative statistics from 28 patients and showed that AI chatbots have an 83% positive impact on the user experience during post-operative recovery within 6 months.
+* Effectively compiled quantitative and qualitative statistics from 28 patients using Microsoft Excell and R-Studio.
+* Demonstrated that patient-Ai-doctor interaction has an 83% positive impact on post-operative recovery.
 
 Computational Genetics Researcher 	Western University	 London, ON, Canada, 06/2018 – 05/2019
 * Predicted cancer potential of 4 genes using Linux, Python, and 3D modelling, to guide financial investment.
-* Presented at 4 Canadian conferences, receiving 3rd place out of 26 students in Ontario-Quebec.
-* Co-authored 7 Scientific Publications collectively achieving over 1,000+ downloads and 5 citations.
+* Presented at 4 Canadian medical research conferences, receiving 3rd place out of 26 students in Ontario-Quebec.
+* Co-authored 7 scientific publications collectively achieving over 1,000+ downloads and 5+ citations.
 
 PROJECTS
 Co-Med 	UofT Hacks 11	 github.com/uOttaHackUofT/Co.med
 * An LLM AI-assisted hospital triage system built with REST, Next.js, and Cohere’s Large-Language Model
-* Utilizes supervised learning to provide suggested diagnosis, prognosis, and triage level with ranked sources.
+* Utilized supervised learning to provide suggested diagnosis, prognosis, and triage level with ranked sources.
 
 uOttaApp 	uOttaHack Development Team	 github.com/Devcon324/uOttaApp
 * Developed an event tracker mobile app that tracked 650+ students’ attendance, food, and raffle tickets.
@@ -50,8 +53,8 @@ Developer ? Director 	uOttaHack (Canada’s Capital Hackathon c.2018)	 11/2022 – P
 * Yielded an annual marketing impact of 44.8k views, and 25 Company Partners with new team strategies.
 
 Speaker & Panelist 	Canadian Undergraduate Software Engineering Conference	 01/2024
-* Presented as a keynote speaker to 400+ students and professionals on importance of non-tech domain knowledge to software engineering and philosophies of success that translate to the technology field.
-* Deliberated the commonalities of careers in tech and health-academic research with discussion about machine learning, life as a published scientist, how research expanded my critical thinking.
+* Presented as a keynote speaker to 400+ students and professionals, emphasizing the power of non-technical domain knowledge in software engineering with philosophies of success that translate into the tech field.
+* Led discussions on the parallels between careers in technology and academic research, topics such as machine learning applications, navigating life as a scientist, and the transformative impact of research on critical thinking skills.
 
 International Experience Scholarship 	Dean of Engineering	 10/2023
-* Selected to represent uOttawa to facilitate a cross-institutional collaboration between uOttaHack and Tec de Monterrey to host 800+ students across the world for Canada’s first ever international hackathon.
+* Selected to represent uOttawa to facilitate a cross-institutional collaboration between uOttaHack and Tec de Monterrey to host 800+ students across the world becoming one of the two Canadian international hackathons.
