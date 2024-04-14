@@ -58,5 +58,5 @@ Speaker & Panelist 	Canadian Undergraduate Software Engineering Conference	 01/2
 * Keynote speaker to 400+ professionals about the power of domain knowledge in software engineering.
 * Led discussions on careers in technology, academic research, machine learning, navigating life as a scientist.
 
-International Experience Scholarship 	Dean of Engineering	 10/2023
+Software Engineering Canadian Rep	Dean of Engineering	 10/2023
 * Selected to represent uOttawa to facilitate a cross-institutional collaboration between uOttaHack and Tec de Monterrey to host 800+ students across the world becoming one of the two Canadian international hackathons.
