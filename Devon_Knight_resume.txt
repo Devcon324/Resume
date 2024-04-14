@@ -1,7 +1,7 @@
 Devon Knight: Software Engineer Co-Op Internship Fall 2024
  devon.donald.knight@gmail.com	|	 (647) 920-3519	|	 linkedin.com/in/devonknight	|	 github.com/Devcon324
 
-Hi, I’m Devon! I am a Software Engineering student with a previous career in Health-Tech Research. I am open to any Development roles. I also have interests in Graphics, Ai, Gaming, Health, Embedded, Network, & Full-Stack.
+Hi, I’m Devon! I am a Software Engineering student with a previous career in Health-Tech Research. I am open to any Development roles. I also have interests in Graphics, Ai, Gaming, Health, Cyber-Sec, Cloud, & Full-Stack.
 
 EDUCATION
 B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
@@ -10,18 +10,20 @@ B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 
 H.B.Sc. Medical Science GPA: 3.9 / 4.0 	Western University	London, ON, Canada, 07/2019
 
 SKILLS
-* Proficient: Python, C, Java, Docker, HTML, CSS, UML, Firebase, Splunk, Git, Linux, GitHub.
-* Experienced: Unix, Bash, Shell, ReactJS, React Native, JavaScript, MongoDB, SQLite, SQL, NoSQL, REST, JSON.
+* Most Used: Python, Java, Docker, Splunk, HTML, CSS, UML, Firebase, Git, Linux, GitHub.
+* Experienced: C, Unix, Bash, Shell, ReactJS/Native, JavaScript, MongoDB, SQLite, SQL, NoSQL, REST, JSON.
 * Beginner: C++, C#, Android, TypeScript, Assembly, Groovy, Jenkins, Maven, Gradle, Kubernetes, Node, NEXT, R.
 
 WORK EXPERIENCE
-DevOps Engineer Co-Op Intern 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – Present
+DevOps Engineer Co-Op Intern 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 04/2024
+* Contributed to Canadian Technology History with the seamless 48-hour acquisition of HSBC platforms to RBC.
 * Reduced deployment time by 15 minutes per developer by writing automation scripts in Groovy and Shell that set up security and Gradle builds such as HTTP proxy, Jenkins, and Open-Shift Container Platform.
-* Implemented the latest GitHub Actions and GitHub Runners with Google’s Bazel Built Tool to build Docker Images and run Docker Containers on a Kubernetes Server, reducing complexity for developers.
-* Designed an automated DevOps Research Assessment dashboard of our pipeline that builds 12 Applications using IBM Urban Code Deploy, Shell, and Splunk to enable tech-leads to manage large product deployments.
+* Implemented the latest GitHub Actions and GitHub Runners with Google’s Bazel Build Tool to build Docker Images and run Docker Containers on a Kubernetes Server, reducing complexity for developers.
+* Designed an automated DevOps data dashboard of our CI/CD pipeline with IBM UCD, Shell, and Splunk.
 
 Software Developer Co-Op Intern 	Ciena	 Kanata, ON, Canada, 05/2023 – 12/2023
-* Co-led an implementation of a Backend NoSQL MongoDB database feature across 47 microservices by leading 24+ JIRA’s across 18 repositories using C, Python, JSON, Jenkins, Shell, Linux, Bitbucket, and Git.
+* Co-led an implementation of a Backend NoSQL MongoDB database feature across 47 microservices 
+* Led 24+ JIRA’s across 18 repositories using C, Python, JSON, Jenkins, Shell, Linux, Bitbucket, and Git.
 * Implemented a novel Python Unit Test framework with 17 automated tests, reducing development time when running Jenkins builds by ensuring compliance to design by running tests in an impressive 0.10 seconds.
 
 Machine Learning Researcher 	University of Toronto	 Toronto, ON, Canada, 06/2019 – 02/2022
@@ -31,7 +33,7 @@ Machine Learning Researcher 	University of Toronto	 Toronto, ON, Canada, 06/2019
 Computational Genetics Researcher 	Western University	 London, ON, Canada, 06/2018 – 05/2019
 * Predicted the cancer potential of 4 genes using Linux, Python, and 3D modelling, to guide financial investment.
 * Presented at 4 Canadian medical research conferences, receiving 3rd place out of 26 students in Ontario-Quebec.
-* Co-authored 7 scientific publications collectively achieving over 1,000+ downloads and 5+ citations.
+* Co-authored 7 scientific publications collectively achieving over 1,000+ downloads and cited 10+ times.
 
 PROJECTS
 Co-Med 	UofT Hacks 11	 github.com/uOttaHackUofT/Co.med
@@ -47,14 +49,14 @@ Dungeons and Dragons Buddy 	Devon Knight	 github.com/Devcon324/DandD_Buddy
 * Built by using object-oriented design, Python, JSON, Selenium web-scraping, and the Discord.py API.
 
 LEADERSHIP
-Software Developer ? Director 	uOttaHack	 11/2022 – Present
+Software Developer ? Director of Sponsorship	uOttaHack	 11/2022 – Present
 * Fostered a community of 850+ students within 4 months by leading company and university collaborations.
 * Coordinated an 800+ student hackathon by building an official site and live-event site using Node/ReactJS.
 * Yielded an annual marketing impact of 44.8k views, and 25 Company Partners with new team strategies.
 
 Speaker & Panelist 	Canadian Undergraduate Software Engineering Conference	 01/2024
-* Presented as a keynote speaker to 400+ students and professionals, emphasizing the power of non-technical domain knowledge in software engineering with philosophies of success that translate into the tech field.
-* Led discussions on the parallels between careers in technology and academic research, topics such as machine learning applications, navigating life as a scientist, and the transformative impact of research on critical thinking skills.
+* Keynote speaker to 400+ professionals about the power of domain knowledge in software engineering.
+* Led discussions on careers in technology, academic research, machine learning, navigating life as a scientist.
 
 International Experience Scholarship 	Dean of Engineering	 10/2023
 * Selected to represent uOttawa to facilitate a cross-institutional collaboration between uOttaHack and Tec de Monterrey to host 800+ students across the world becoming one of the two Canadian international hackathons.
