@@ -1,7 +1,7 @@
 Devon Knight: Software Engineer Co-Op Internship Fall 2024
  devon.donald.knight@gmail.com	|	 (647) 920-3519	|	 linkedin.com/in/devonknight	|	 github.com/Devcon324
 
-Hi, I’m Devon! I am a Software Engineering student with a previous career in Health-Tech Research. I am open to any Development roles. I also have interests in Graphics, Ai, Gaming, Health, Aerospace, Cyber-Sec, & Full-Stack.
+Hi, I’m Devon! I am a Software Engineering student with a previous career in Medical Research. I am open to any Development roles. I also have interests in Graphics, Ai, Gaming, Health, Aerospace, Cyber-Security, & Full-Stack.
 
 EDUCATION
 B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
@@ -11,12 +11,12 @@ H.B.Sc. Medical Science GPA: 3.9 / 4.0 	Western University	London, ON, Canada, 0
 
 SKILLS
 * Most Used: Python, Java, Docker, Splunk, HTML, CSS, UML, Firebase, Git, Linux, GitHub.
-* Experienced: C, Unix, Bash, Shell, ReactJS/Native, JavaScript, MongoDB, SQLite, SQL, NoSQL, REST, JSON.
+* Experienced: C, Unix, Bash, Shell, ReactJS/Native, JavaScript, MongoDB, SQLite, SQL, MySQL, REST, JSON.
 * Beginner: C++, C#, Android, TypeScript, Assembly, Groovy, Jenkins, Maven, Gradle, Kubernetes, Node, NEXT, R.
 
 WORK EXPERIENCE
 DevOps Engineer Co-Op Intern 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 04/2024
-* Contributed to Canadian Technology History with the seamless 48-hour acquisition of HSBC platforms to RBC.
+* Contributed to Canadian Technology History with the seamless 48-hour acquisition of HSBC framework to RBC.
 * Reduced deployment time by 15 minutes per developer by writing automation scripts in Groovy and Shell that set up security and Gradle builds such as HTTP proxy, Jenkins, and Open-Shift Container Platform.
 * Implemented the latest GitHub Actions and GitHub Runners with Google’s Bazel Build Tool to build Docker Images and run Docker Containers on a Kubernetes Server, reducing complexity for developers.
 * Designed an automated DevOps data dashboard of our CI/CD pipeline with IBM UCD, Shell, and Splunk.
@@ -35,20 +35,12 @@ Computational Genetics Researcher 	Western University	 London, ON, Canada, 06/20
 * Presented at 4 Canadian medical research conferences, receiving 3rd place out of 26 students in Ontario-Quebec.
 * Co-authored 2 scientific papers & led 3 talks, collectively achieving over 1,000+ downloads and cited 10+ times.
 
-PROJECTS
-Co-Med 	UofT Hacks 11	 github.com/uOttaHackUofT/Co.med
-* An LLM AI-assisted hospital triage web-application built with REST, Next.js, and Cohere’s Large-Language Model
-* Utilized supervised learning to provide suggested diagnosis, prognosis, and triage level with ranked sources.
-
-uOttaApp 	uOttaHack Development Team	 github.com/Devcon324/uOttaApp
-* Developed an event tracker mobile application that tracked 650+ students’ attendance, food, and raffle tickets.
-* Built as a full-stack mobile app with React Native, HTML, CSS, JavaScript and Google Cloud’s Firebase 
-
-Dungeons and Dragons Buddy 	Devon Knight	 github.com/Devcon324/DandD_Buddy
-* Play speed increased by ~99.3% by implementing a search algorithm that parses 149+ pages of textbook data.
-* Built by using object-oriented design, Python, JSON, Selenium web-scraping, and the Discord.py API.
-
 LEADERSHIP
+Co-Founder	Vaporware Games	01/2024 – Present
+* Developed a captivating 2D horror survival game using the Godot Game Engine and Sprite-work in Adobe Studio.
+* Crafted an immersive atmosphere and suspenseful storytelling elements within the Godot Engine's framework.
+* Utilized GDScript and other scripting languages supported by Godot to implement game features.
+
 Software Developer ? Director of Sponsorship	uOttaHack	 11/2022 – Present
 * Fostered a community of 850+ students within 4 months by leading company and university collaborations.
 * Coordinated an 800+ student hackathon by building an official site and live-event site using Node/ReactJS.
@@ -60,3 +52,12 @@ Speaker & Panelist 	Canadian Undergraduate Software Engineering Conference	 01/2
 
 Software Engineering Canadian Rep	Dean of Engineering	 10/2023
 * Selected to represent uOttawa to facilitate a cross-institutional collaboration between uOttaHack and Tec de Monterrey to host 800+ students across the world becoming one of the two Canadian international hackathons.
+
+PROJECTS
+Co-Med 	UofT Hacks 11	 github.com/uOttaHackUofT/Co.med
+* An LLM AI-assisted hospital triage web-application built with REST, Next.js, and Cohere’s Large-Language Model
+* Utilized supervised learning to provide suggested diagnosis, prognosis, and triage level with ranked sources.
+
+uOttaApp 	uOttaHack Development Team	 github.com/Devcon324/uOttaApp
+* Developed an event tracker mobile application that tracked 650+ students’ attendance, food, and raffle tickets.
+* Built as a full-stack mobile app with React Native, HTML, CSS, JavaScript and Google Cloud’s Firebase
