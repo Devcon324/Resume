@@ -7,7 +7,7 @@ EDUCATION
 B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
 * GPA: 3.9 / 4.0	: Digital Logic, Computer Architecture, Linear Algebra, Data Structures and Algorithms, Android Dev.
 * Repping Canada at Dragonboat Worlds Italy 2024, SWE Class Rep, Sponsorship Manager, Deans Honor Roll.
-H.B.Sc. Medical Science GPA: 3.9 / 4.0 	Western University	London, ON, Canada, 07/2019
+H.B.Sc. Medical Science GPA: 3.9 / 4.0 	Western University	London, ON, Canada
 
 SKILLS
 * Most Used: Python, Java, Docker, Splunk, HTML, CSS, UML, Firebase, Git, Linux, GitHub.
