@@ -5,8 +5,8 @@ Hi, I’m Devon! I am a Software Engineering student with a previous career in Med
 
 EDUCATION
 B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
-* GPA: 3.9 / 4.0	: Digital Logic, Computer Architecture, Linear Algebra, Data Structures and Algorithms, Android Dev.
-* Repping Canada at Dragonboat Worlds Italy 2024, SWE Class Rep, Sponsorship Manager, Deans Honor Roll.
+* GPA: 3.9 / 4.0	: Digital Logic, Operating Systems, Linear Algebra, Data Structures and Algorithms, Android Dev.
+* World Champion Dragonboat Athlete in Italy 2024, SWE Class Rep, Sponsorship Manager, Deans Honor Roll.
 H.B.Sc. Medical Science GPA: 3.9 / 4.0 	Western University	London, ON, Canada
 
 SKILLS
@@ -26,9 +26,9 @@ DevOps Engineer Co-Op Intern 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024
 * Designed an automated DevOps data dashboard of our CI/CD pipeline with IBM UCD, Shell, and Splunk.
 
 Software Developer Co-Op Intern 	Ciena	 Kanata, ON, Canada, 05/2023 – 12/2023
-* Co-led an implementation of a Backend NoSQL MongoDB database feature across 47 microservices 
+* Co-led an implementation of a Backend NoSQL MongoDB database testing feature across 47 microservices 
 * Led 24+ JIRA’s across 18 repositories using C, Python, JSON, Jenkins, Shell, Linux, Bitbucket, and Git.
-* Implemented a novel Python Unit Test framework with 17 test suites that runs in  an impressive 0.10 seconds.
+* Implemented a novel Python Unit Test framework with 17 test suites that runs in an impressive 0.10 seconds.
 
 Machine Learning Researcher 	University of Toronto	 Toronto, ON, Canada, 06/2019 – 02/2022
 * Effectively compiled quantitative and qualitative statistics from 28 patients using Microsoft Excel and R-Studio.
