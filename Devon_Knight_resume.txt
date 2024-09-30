@@ -1,51 +1,52 @@
 Devon Knight: Software Engineer Co-Op Internship Summer 2025
  devon.donald.knight@gmail.com	|	 (647) 920-3519	|	 linkedin.com/in/devonknight	|	 github.com/Devcon324
 
-Hi, I’m Devon! I am a Software Engineering student with a previous career in Medical Research. I am open to any Development roles. I also have interests in Graphics, Ai, Health, Gaming, Aerospace, Cyber-Security, & Full-Stack.
-
 EDUCATION
 B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
-* GPA: 3.9 / 4.0	: Digital Logic, Operating Systems, Linear Algebra, Data Structures and Algorithms, Android Dev.
-* World Champion Dragonboat Athlete in Italy 2024, SWE Class Rep, Sponsorship Manager, Deans Honor Roll.
-H.B.Sc. Medical Science GPA: 3.9 / 4.0 	Western University	London, ON, Canada
+* CGPA: 4.00 / 4.00	: Digital Logic, Operating Systems, Linear Algebra, Data Structures and Algorithms, Android Dev.
+* Class Rep, Board of Directors, Funding Manager, Deans Honor Roll, World Championship Athlete 2024
+H.B.Sc. Medical Science CGPA: 3.92 / 4.00 	Western University	London, ON, Canada
 
 SKILLS
-* Most Used: Python, Java, Docker, Splunk, HTML, CSS, UML, Firebase, Git, Linux, GitHub.
+* Most Used: Python, Java, Docker, GPT, CrewAi, ReactJS/Native, Splunk, HTML/CSS, Firebase, Git, Linux, GitHub.
 * Experienced: C, Unix, Bash, Shell, ReactJS/Native, JavaScript, MongoDB, SQLite, SQL, MySQL, REST, JSON.
 * Beginner: C++, C#, Android, TypeScript, Assembly, Groovy, Jenkins, Maven, Gradle, Kubernetes, Node, NEXT, R.
 
 WORK EXPERIENCE
-Machine Learning Engineer Co-Op Intern 	RBC Generative Ai Lab	 Toronto, ON, Canada, 09/2024 – 12/2024
-* Developed Agentic Ai research tools using Langchain and LlamaIndex, reducing processing time of service tasks.
+ML Engineer (4 Month Co-Op) 	RBC Generative Ai Lab	 Toronto, ON, Canada, 09/2024 – 01/2025
+* Automated investment reports in 24s per stock using open-source LLM AI Agents that parse reports and the web.
+* Built a validator of client data saving 1,000’s of man-hours using Machine Learning, Langchain and LlamaIndex.
 * Utilized vector databases such as Qdrant, ChromaDB, and Pinecone for efficient data storage and retrieval.
 
-DevOps Engineer Co-Op Intern 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 04/2024
+DevOps Engineer (4 Month Co-Op) 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 05/2024
 * Contributed to Canadian Technology History with the seamless 48-hour acquisition of HSBC framework to RBC.
-* Reduced Gradle build and deploy time by 15% with Groovy that set up HTTP proxy and Open-Shift Containers.
-* Implemented the latest GitHub Actions and GitHub Runners with Google’s Bazel Build Tool to build Docker Images and run Docker Containers on a Kubernetes Server, reducing complexity for developers.
-* Designed an automated DevOps data dashboard of our CI/CD pipeline with IBM UCD, Shell, and Splunk.
+* Reduced Gradle build and deploy time by 15% with Groovy that operate HTTP proxies and Open-Shift Containers.
+* Built 1 Prototype DevOps pipeline with GitHub Actions and Runners, increasing efficiency across 54 Dev Teams.
+* Designed an automated DevOps control panel tracking 1,000’s of developer commits and managing downtime.
 
-Software Developer Co-Op Intern 	Ciena	 Kanata, ON, Canada, 05/2023 – 12/2023
-* Co-led an implementation of a Backend NoSQL MongoDB database testing feature across 47 microservices 
+Software Developer (8 Month Co-Op) 	Ciena	 Ottawa, ON, Canada, 05/2023 – 12/2023
+* Upgraded 47 microservices used in servers with clients such as Google, Amazon, Twitch, Meta, and Microsoft.
+* Co-led a back-end NoSQL MongoDB database testing feature catching 12+ faults and prevented major incidents.
 * Led 24+ JIRA’s across 18 repositories using C, Python, JSON, Jenkins, Shell, Linux, Bitbucket, and Git.
 * Implemented a novel Python Unit Test framework with 17 test suites that runs in an impressive 0.10 seconds.
 
-Machine Learning Researcher 	University of Toronto	 Toronto, ON, Canada, 06/2019 – 02/2022
-* Effectively compiled quantitative and qualitative statistics from 28 patients using Microsoft Excel and R-Studio.
-* Demonstrated that patient-Ai-doctor interaction has an 83% positive impact on post-operative recovery.
+Machine Learning Researcher 	University of Toronto	 Toronto, ON, Canada, 05/2019 – 09/2022
+* Conducted data-analysis from 28 patients using Python, Microsoft Excel and R-Studio with weekly data-reports.
+* Co-led a clinical study showing 83% decrease in surgery complications with patient-Ai-doctor interaction.
+* Co-authored a peer-reviewed publication on the advancement of ML in healthcare, cited 25+ times in the field.
 
 Computational Genetics Researcher 	Western University	 London, ON, Canada, 06/2018 – 05/2019
-* Predicted the cancer potential of 4 genes using Linux, Python, and 3D modelling, to guide financial investment.
+* Identified 4 Cancer-Causing genes using Linux, Python, and 3D modelling, saving over $8,000 of lab materials.
 * Presented at 4 Canadian medical research conferences, receiving 3rd place out of 26 students in Ontario-Quebec.
 * Co-authored 2 scientific papers & led 3 talks, collectively achieving over 1,000+ downloads and cited 10+ times.
 
 LEADERSHIP
-Co-Founder	Vaporware Games	01/2024 – Present
+Co-Founder	VaporWare Games	01/2024 – Present
 * Developed a captivating 2D horror survival game using the Godot Game Engine and Sprite-work in Adobe Studio.
-* Crafted an immersive atmosphere and suspenseful storytelling elements within the Godot Engine's framework.
-* Utilized GDScript and other scripting languages supported by Godot to implement game features.
+* Crafted an immersive atmosphere and suspenseful storytelling elements with storyboards and concept art.
+* Utilized GDScript and C# to implement game features in the Godot Game Engine to create a prototype.
 
-Software Developer ? Director of Sponsorship	uOttaHack	 11/2022 – Present
+Director & Software Developer	uOttaHack	 11/2022 – Present
 * Represented Canada and built an international collaboration between uOttaHack and Tec de Monterrey to bring accessible resources to 800+ students across the world becoming the only Canadian international hackathon.
 * Coordinated an 800+ student hackathon by building an official site and live-event site using Node/ReactJS.
 * Yielded an annual marketing impact of 44.8k views, and 25 Company Partners with new team strategies.
