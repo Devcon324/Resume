@@ -8,13 +8,13 @@ B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 
 H.B.Sc. Medical Science CGPA: 3.92 / 4.00 	Western University	London, ON, Canada
 
 SKILLS
-* Most Used: Python, Java, Docker, GPT, CrewAi, ReactJS/Native, Splunk, HTML/CSS, Firebase, Git, Linux, GitHub.
-* Experienced: C, Unix, Bash, Shell, ReactJS/Native, JavaScript, MongoDB, SQLite, SQL, MySQL, REST, JSON.
+* Most Used: Python, Java, Docker, GPT, CrewAi, Front-End, React, Splunk, HTML/CSS, Agile, Git, Linux, GitHub.
+* Experienced: C, Unix, Bash, Shell, ReactJS/Native, JavaScript, MongoDB, REST APIs, SQL, MySQL, REST, JSON.
 * Beginner: C++, C#, Android, TypeScript, Assembly, Groovy, Jenkins, Maven, Gradle, Kubernetes, Node, NEXT, R.
 
 WORK EXPERIENCE
 ML Engineer (4 Month Co-Op) 	RBC Generative Ai Lab	 Toronto, ON, Canada, 09/2024 – 01/2025
-* Automated investment reports in 24s per stock using open-source LLM AI Agents that parse reports and the web.
+* Automated investment reports in 24s per stock using Generative LLM AI Agents that parse reports and the web.
 * Built a validator of client data saving 1,000’s of man-hours using Machine Learning, Langchain and LlamaIndex.
 * Utilized vector databases such as Qdrant, ChromaDB, and Pinecone for efficient data storage and retrieval.
 
@@ -30,10 +30,10 @@ Software Developer (8 Month Co-Op) 	Ciena	 Ottawa, ON, Canada, 05/2023 – 12/2023
 * Led 24+ JIRA’s across 18 repositories using C, Python, JSON, Jenkins, Shell, Linux, Bitbucket, and Git.
 * Implemented a novel Python Unit Test framework with 17 test suites that runs in an impressive 0.10 seconds.
 
-Machine Learning Researcher 	University of Toronto	 Toronto, ON, Canada, 05/2019 – 09/2022
+Machine Learning Research Assistant	University of Toronto	 Toronto, ON, Canada, 05/2019 – 09/2022
 * Conducted data-analysis from 28 patients using Python, Microsoft Excel and R-Studio with weekly data-reports.
 * Co-led a clinical study showing 83% decrease in surgery complications with patient-Ai-doctor interaction.
-* Co-authored a peer-reviewed publication on the advancement of ML in healthcare, cited 25+ times in the field.
+* Co-authored a peer-reviewed publication on the use of ML in post-operative recovery, cited 25+ times in the field.
 
 Computational Genetics Researcher 	Western University	 London, ON, Canada, 06/2018 – 05/2019
 * Identified 4 Cancer-Causing genes using Linux, Python, and 3D modelling, saving over $8,000 of lab materials.
@@ -43,7 +43,7 @@ Computational Genetics Researcher 	Western University	 London, ON, Canada, 06/20
 LEADERSHIP
 Co-Founder	VaporWare Games	01/2024 – Present
 * Developed a captivating 2D horror survival game using the Godot Game Engine and Sprite-work in Adobe Studio.
-* Crafted an immersive atmosphere and suspenseful storytelling elements with storyboards and concept art.
+* Crafted an immersive atmosphere and suspenseful elements by using 10 years of D&D storytelling experience.
 * Utilized GDScript and C# to implement game features in the Godot Game Engine to create a prototype.
 
 Director & Software Developer	uOttaHack	 11/2022 – Present
@@ -52,7 +52,7 @@ Director & Software Developer	uOttaHack	 11/2022 – Present
 * Yielded an annual marketing impact of 44.8k views, and 25 Company Partners with new team strategies.
 
 Keynote Speaker	Canadian Software Engineering Conference	 01/2024
-* Keynote speaker to 400+ professionals about the power of domain knowledge in software engineering.
+* Keynote speaker to 400+ professionals about the power of medical domain knowledge in software engineering.
 * Led discussions on careers in technology, academic research, machine learning, navigating life as a scientist.
 
 PROJECTS
