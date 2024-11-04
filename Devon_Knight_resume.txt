@@ -3,8 +3,8 @@ Devon Knight: Software Engineer Co-Op Internship Summer 2025
 
 EDUCATION
 B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
-* CGPA: 4.00 / 4.00	: Digital Logic, Operating Systems, Linear Algebra, Data Structures and Algorithms, Android Dev.
-* Class Rep, Board of Directors, Funding Manager, Deans Honor Roll, World Championship Athlete 2024
+* CGPA: 3.95 / 4.00	: Data Structures and Algorithms, Android Dev, Digital Logic, Operating Systems, Linear Algebra.
+* World Championship Athlete 2024, Class Rep, ENG Board of Directors, Funding Manager, Deans Honor Roll
 H.B.Sc. Medical Science CGPA: 3.92 / 4.00 	Western University	London, ON, Canada
 
 SKILLS
@@ -14,18 +14,18 @@ SKILLS
 
 WORK EXPERIENCE
 ML Engineer (4 Month Co-Op) 	RBC Generative Ai Lab	 Toronto, ON, Canada, 09/2024 – 01/2025
-* Automated investment reports in 24s per stock using Generative LLM AI Agents that parse reports and the web.
-* Built a validator of client data saving 1,000’s of man-hours using Machine Learning, Langchain and LlamaIndex.
+* Automated investment reports in 24s per stock showing a 99.994% confidence in LLM’s saving mean work hours.
+* Built a full-stack address validator saving 1,000’s of man-hours using React, JS, Langchain and LlamaIndex.
 * Utilized vector databases such as Qdrant, ChromaDB, and Pinecone for efficient data storage and retrieval.
 
 DevOps Engineer (4 Month Co-Op) 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 05/2024
-* Contributed to Canadian Technology History with the seamless 48-hour acquisition of HSBC framework to RBC.
+* Contributed to Canadian Technology History with the seamless 48-hour acquisition of HSBC technology to RBC.
 * Reduced Gradle build and deploy time by 15% with Groovy that operate HTTP proxies and Open-Shift Containers.
 * Built 1 Prototype DevOps pipeline with GitHub Actions and Runners, increasing efficiency across 54 Dev Teams.
 * Designed an automated DevOps control panel tracking 1,000’s of developer commits and managing downtime.
 
 Software Developer (8 Month Co-Op) 	Ciena	 Ottawa, ON, Canada, 05/2023 – 12/2023
-* Upgraded 47 microservices used in servers with clients such as Google, Amazon, Twitch, Meta, and Microsoft.
+* Served Google, Amazon, Twitch, Meta, and Microsoft clients with an upgrade to 47 server microservices.
 * Co-led a back-end NoSQL MongoDB database testing feature catching 12+ faults and prevented major incidents.
 * Led 24+ JIRA’s across 18 repositories using C, Python, JSON, Jenkins, Shell, Linux, Bitbucket, and Git.
 * Implemented a novel Python Unit Test framework with 17 test suites that runs in an impressive 0.10 seconds.
@@ -57,7 +57,7 @@ Keynote Speaker	Canadian Software Engineering Conference	 01/2024
 
 PROJECTS
 Co-Med 	UofT Hacks 11	 github.com/uOttaHackUofT/Co.med
-* An LLM AI-assisted hospital triage web-application built with REST, Next.js, and Cohere’s Large-Language Model
+* A full-stack LLM AI-assisted hospital triage app built with ReactJS, REST, Next.js, and Cohere’s LLM Gen Ai
 * Utilized supervised learning to provide suggested diagnosis, prognosis, and triage level with ranked sources.
 
 uOttaApp 	uOttaHack Development Team	 github.com/Devcon324/uOttaApp
