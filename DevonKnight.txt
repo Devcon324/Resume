@@ -1,0 +1,67 @@
+Devon Knight
+devon.donald.knight@gmail.com		 (647) 920-3519		linkedin.com/in/devonknight		github.com/Devcon324
+
+Education
+University of Ottawa – B.A.Sc. Software Engineering (Co-Op) – GPA: 92.5%	 Graduating 2026
+Coursework: Databases, Data Structures & Algorithms, Digital Systems Design, Operating Systems, PC/CPU Architecture
+Volunteer: 2024 Dragonboat World Athlete, 7 Scholarships, SWE Class Rep, Engineering Director, Sponsorship Director
+
+Professional Experience
+Royal Bank of Canada – Machine Learning Engineer Intern	 Toronto, ON, Canada, 	09/2024 – 12/2024
+* Created 3 Products using OpenAI, Anthropic, Meta Large Language Models in an Agile/Scrum team
+* Built a Geolocator for 500k clients with 91.96% accuracy, saving 17,000+ days of labor using Python & FastAPI
+* Developed a financial analyst app with Python, FastAPI, CrewAI (Llama 70B), Vite, & React to enhance workflows
+* Implemented a RegEx Algorithm & analyzed HereAPI, Google API’s & LLM’s leading to a +37% in precision
+* Optimized storage & retrieval of AI models using vector databases, Qdrant, ChromaDB, & Pinecone
+
+Royal Bank of Canada – DevOps Engineer Intern	 Toronto, ON, Canada,	 01/2024 – 04/2024
+* Developed a feature & unit test to reduce caching libraries to improve developer build times using TypeScript
+* Achieved a 15% faster build & deploy time by automating manual build tasks with Gradle, Groovy, & Kubernetes
+* Deployed GitHub Runners using Docker containers on Kubernetes & OpenShift for improved scalability
+* Spearheaded a DevOps Dashboard using Splunk & Elasticsearch that tracked 400+ engineers across 53+ teams
+* Built & managed a new CI/CD pipeline to build & deploy apps with Gradle using YAML & GitHub Actions
+
+Ciena – Software Developer Intern	 Ottawa, ON, Canada,	 05/2023 – 12/2023
+* Led a production server upgrade across 47 microservices for Google, Amazon, Twitch, Meta, & Microsoft clients
+* Built 17 tests for Database Migrations with Python, PyTest, & MongoDB catching 12+ errors in 100 milliseconds
+* Developed 34+ Features across 21 Bitbucket repositories using C, Python, JSON, UNIX/Linux, Bash, & Git
+* Optimized server networks in C/C++ by resolving 3 memory leaks, Transceiver profiles, Remote Procedure Calls
+
+University of Toronto – Machine Learning Research Assistant	 Toronto, ON, Canada,	 05/2019 – 09/2022
+* Conducted data-analysis from 28 patients using Python, Microsoft Excel & R-Studio with weekly data-reports
+* Co-led a clinical study that used Felix AI ML to advise patients showing 83% improved patient outcomes
+* Co-authored a peer-reviewed publication on ML application in post-operative recovery, cited 25+ times in the field
+
+Skills
+* Proficient: Python, Agentic AI, FastAPI, Java, Git, UNIX/Linux OS, ReactJS, Kubernetes, NoSQL, NodeJS, NextJS
+* Experienced: Bash, Shell, ReactNative, JavaScript, TypeScript, C/C++/C#, MongoDB, SQLite, Kubernetes, Docker
+* Familiar: Android, GitHub Actions, Runners, Jenkins, Maven, Gradle, R, AWS, Spring Boot, Splunk, Firebase
+
+Leadership
+uOttaHack – Director		 06/2022 – 05/2023
+* Managed 30+ organizers to host a Hackathon of 800+ students, 40+ repositories 30 mentors & 25+ companies
+* Developed the Official site, LiveSite & uOttaApp, while maintaining over 20 repositories (webapps, API, CI/CD)
+* Led 13 community events for 800+ students, with reps from Apple, Microsoft, Google, Solace, & Trend Micro
+
+uOttaHack – Advisor		 05/2023 – Present
+* United Canada, Hong Kong & Mexico STEM universities by spearheading an International Partnership
+* Led as the primary liaison for executives which increased company partnerships by 77.8% & funds by 36.3%
+* Raised over $68,000+ yearly & grew the hackathons marketing to 2.4K followers & 44.8k views
+
+VaporWare Games – Co-Founder		 01/2024 – Present
+* Developed a 2D horror game using Godot Engine, GDScript, C#, Python, & Aseprite to implement features
+* Collaborated with art designers to craft immersive atmospheres & storytelling elements within the Godot Engine
+
+Projects
+Co-Medical – University of Toronto Hacks 11		 github.com/uOttaHackUofT/Co.med
+* Built an AI hospital triage web app using Python, Cohere LLM, & Next.JS to streamline emergency rooms
+* Utilized LLM Classify as a supervised learning analogue to provide diagnosis, prognosis, & triage with citations
+
+uOttaApp – Smartphone Event Tracker		github.com/Devcon324/uOttaApp
+* MERN Stack Mobile WebApp used by 2000+ hackers at our events, leveraging Next.js, Firebase & Expo
+* Managing 700+ users at once, tracking event statistics on a user-friendly UI/UX enhanced by SCSS/CSS
+
+uOttaHack Website – uOttaHack Main Websites (2023/2024/2025) 	 2023.ca / 2024.ca / 2025.ca
+* Using various React libraries & Embeds in order to maximize site efficiency & appeal
+* Using Next.js to implement Dynamic Data Fetching for a backend leading to expeditious release/update times
+* Maintaining & updating onsite sponsors & advertisement that led to $68,000+ of funding & & 200+ daily visits
