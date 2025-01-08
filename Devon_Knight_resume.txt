@@ -8,14 +8,14 @@ Volunteer: 2024 Dragonboat World Athlete, 7 Scholarships, SWE Class Rep, Enginee
 
 Professional Experience
 Royal Bank of Canada – Machine Learning Engineer Intern	 Toronto, ON, Canada, 	09/2024 – 12/2024
-* Created 3 Products using OpenAI, Anthropic, Meta Large Language Models in an Agile/Scrum team
-* Built a Geolocator for 500k clients with 91.96% accuracy, saving 17,000+ days of labor using Python & FastAPI
+* Created 3 Gen AI Products using OpenAI, Anthropic, Meta Large Language Models in an Agile/Scrum team
+* Built a 500k client Geolocator with 91.96% accuracy, saving 17k days of labor using A/B tests, Python & FastAPI
 * Developed a financial analyst app with Python, FastAPI, CrewAI (Llama 70B), Vite, & React to enhance workflows
 * Implemented a RegEx Algorithm & analyzed HereAPI, Google API’s & LLM’s leading to a +37% in precision
-* Optimized storage & retrieval of AI models using vector databases, Qdrant, ChromaDB, & Pinecone
+* Optimized storage & retrieval of AI models on using SageMaker, Qdrant, ChromaDB, & Pinecone
 
 Royal Bank of Canada – DevOps Engineer Intern	 Toronto, ON, Canada,	 01/2024 – 04/2024
-* Developed a feature & unit test to reduce caching libraries to improve developer build times using TypeScript
+* Developed a key feature & unit test to reduce caching libraries to improve developer build times using TypeScript
 * Achieved a 15% faster build & deploy time by automating manual build tasks with Gradle, Groovy, & Kubernetes
 * Deployed GitHub Runners using Docker containers on Kubernetes & OpenShift for improved scalability
 * Spearheaded a DevOps Dashboard using Splunk & Elasticsearch that tracked 400+ engineers across 53+ teams
@@ -35,13 +35,13 @@ University of Toronto – Machine Learning Research Assistant	 Toronto, ON, Canada
 Skills
 * Proficient: Python, Agentic AI, FastAPI, Java, Git, UNIX/Linux OS, ReactJS, Kubernetes, NoSQL, NodeJS, NextJS
 * Experienced: Bash, Shell, ReactNative, JavaScript, TypeScript, C/C++/C#, MongoDB, SQLite, Kubernetes, Docker
-* Familiar: Android, GitHub Actions, Runners, Jenkins, Maven, Gradle, R, AWS, Spring Boot, Splunk, Firebase
+* Familiar: SageMaker, Android, GitHub Actions, Runners, Jenkins, Maven/Gradle, R, AWS, Spring, Splunk, Firebase
 
 Leadership
 uOttaHack – Director		 06/2022 – 05/2023
 * Managed 30+ organizers to host a Hackathon of 800+ students, 40+ repositories 30 mentors & 25+ companies
 * Developed the Official site, LiveSite & uOttaApp, while maintaining over 20 repositories (webapps, API, CI/CD)
-* Led 13 community events for 800+ students, with reps from Apple, Microsoft, Google, Solace, & Trend Micro
+* Led 13 events for a community of 800+ with reps from Groq, Apple, Microsoft, Google, Solace, & Trend Micro
 
 uOttaHack – Advisor		 05/2023 – Present
 * United Canada, Hong Kong & Mexico STEM universities by spearheading an International Partnership
