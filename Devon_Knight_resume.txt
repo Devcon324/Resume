@@ -3,13 +3,18 @@ devon.donald.knight@gmail.com		 (647) 920-3519		linkedin.com/in/devonknight		git
 
 Education
 University of Ottawa – B.A.Sc. Software Engineering (Co-Op)	 Graduating 2026
-CGPA: 92.5% | Coursework: Databases, Data Structures & Algorithms, Operating Systems, PC/CPU Architecture
-Volunteer: 2024 Dragonboat World Athlete, 7 Scholarships, SWE Class Rep, Engineering Director, Sponsorship Director
+CGPA: 92.5% | UI/UX Design, Databases, Data Structures & Algorithms, Operating Systems, Software Architecture
+Societies: 2024 Dragonboat World Athlete, 7 x Scholarships, SWE Class Rep, Engineering Sponsorship Director
+
+Skills
+* Proficient: Python, Agentic AI, FastAPI, OpenAI API, Kubernetes, Git, UNIX/Linux OS, ReactJS, NoSQL, NodeJS
+* Experienced: Bash, Shell, JavaScript, HTML, CSS, TypeScript, C/C++/C#, MongoDB, SQLite, Kubernetes, Docker
+* Familiar: SageMaker, Huggingface, GitHub Action/Runner, Jenkins, Maven/Gradle, AWS, Pytorch, Splunk, Firebase
 
 Professional Experience
 Royal Bank of Canada – Machine Learning Engineer Intern	 Toronto, ON, Canada, 	09/2024 – 12/2024
-* Created 3 Gen AI Products using OpenAI, Anthropic, Meta Large Language Models in an Agile/Scrum team
-* Built a 500k client Geolocator with 91.96% accuracy, saving 17k days of labor using A/B tests, Python & FastAPI
+* Created 3 Gen AI Products using Anthropic, Meta, OpenAI API endpoints for LLM Apps in an Agile/Scrum team
+* Utilized LLM’s to build a 500k client Geolocator with 91.96% accuracy, saving 9 years of labor using A/B tests
 * Developed a financial analyst app with Python, FastAPI, CrewAI (Llama 70B), Vite, & React to enhance workflows
 * Implemented a RegEx Algorithm & analyzed HereAPI, Google API’s & LLM’s leading to a +37% in precision
 * Optimized storage & retrieval of AI models on using SageMaker, Qdrant, ChromaDB, & Pinecone
@@ -22,7 +27,7 @@ Royal Bank of Canada – DevOps Engineer Intern	 Toronto, ON, Canada,	 01/2024 – 0
 * Built & managed a new CI/CD pipeline to build & deploy apps with Gradle using YAML & GitHub Actions
 
 Ciena – Software Developer Intern	 Ottawa, ON, Canada,	 05/2023 – 12/2023
-* Led a production server upgrade across 47 microservices for Google, Amazon, Twitch, Meta, & Microsoft clients
+* Served Google, Amazon, Twitch, Meta, & Microsoft clients in a server upgrade across 47 microservices.
 * Built 17 tests for Database Migrations with Python, PyTest, & MongoDB catching 12+ errors in 100 milliseconds
 * Developed 34+ Features across 21 Bitbucket repositories using C, Python, JSON, UNIX/Linux, Bash, & Git
 * Optimized server networks in C/C++ by resolving 3 memory leaks, Transceiver profiles, Remote Procedure Calls
@@ -32,19 +37,14 @@ University of Toronto – Machine Learning Research Assistant	 Toronto, ON, Canada
 * Co-led a clinical study that used Felix AI ML to advise patients showing 83% improved patient outcomes
 * Co-authored a peer-reviewed publication on ML application in post-operative recovery, cited 25+ times in the field
 
-Skills
-* Proficient: Python, Agentic AI, FastAPI, Java, Git, UNIX/Linux OS, ReactJS, Kubernetes, NoSQL, NodeJS, NextJS
-* Experienced: Bash, Shell, ReactNative, JavaScript, TypeScript, C/C++/C#, MongoDB, SQLite, Kubernetes, Docker
-* Familiar: SageMaker, Android, GitHub Actions, Runners, Jenkins, Maven/Gradle, R, AWS, Spring, Splunk, Firebase
-
 Leadership
-uOttaHack – Director		 06/2022 – 05/2023
+uOttaHack – Director		 06/2022 – Present
+* Partnered with Groq, Survey Monkey, Amazon & more and led 13 SWE events for an 800+ engineer community.
 * Managed 30+ organizers to host a Hackathon of 800+ students, 40+ repositories 30 mentors & 25+ companies
 * Developed the Official site, LiveSite & uOttaApp, while maintaining over 20 repositories (webapps, API, CI/CD)
-* Led 13 events for a community of 800+ with reps from Groq, Apple, Microsoft, Google, Solace, & Trend Micro
 
 uOttaHack – Advisor		 05/2023 – Present
-* United Canada, Hong Kong & Mexico STEM universities by spearheading an International Partnership
+* Collaborated Canada, Hong Kong & Mexico STEM universities by spearheading an International Partnership
 * Led as the primary liaison for executives which increased company partnerships by 77.8% & funds by 36.3%
 * Raised over $68,000+ yearly & grew the hackathons marketing to 2.4K followers & 44.8k views
 
@@ -53,15 +53,15 @@ VaporWare Games – Co-Founder		 01/2024 – Present
 * Collaborated with art designers to craft immersive atmospheres & storytelling elements within the Godot Engine
 
 Projects
+The NeverEnding Story – Groq GenAI Lore Building 		github.com/Devcon324/NeverEnding-Story 
+* Developed an infinite D&D game story with Groq’s Meta Llama 3.2 90B writing a post every hour using Linux bash. 
+* Designed an algorithm in Python to read files quickly and feed the story to Groq to write the proceeding chapter 
+
 Co-Medical – University of Toronto Hacks 11		 github.com/uOttaHackUofT/Co.med
-* Built an AI hospital triage web app using Python, Cohere LLM, & Next.JS to streamline emergency rooms
+* Built an LLM AI hospital triage web app using Python, Cohere LLM, & Next.JS to streamline emergency rooms
 * Utilized LLM Classify as a supervised learning analogue to provide diagnosis, prognosis, & triage with citations
 
-uOttaApp – Smartphone Event Tracker		github.com/Devcon324/uOttaApp
-* MERN Stack Mobile WebApp used by 2000+ hackers at our events, leveraging Next.js, Firebase & Expo
-* Managing 700+ users at once, tracking event statistics on a user-friendly UI/UX enhanced by SCSS/CSS
-
-uOttaHack Website – uOttaHack Main Websites (2023/2024/2025) 	 2023.ca / 2024.ca / 2025.ca
-* Using various React libraries & Embeds in order to maximize site efficiency & appeal
-* Using Next.js to implement Dynamic Data Fetching for a backend leading to expeditious release/update times
+uOttaHack Websites/Apps – uOttaHack Main Websites (2023/2024/2025) 	 2023.ca / 2024.ca / 2025.ca
+* Managed 48 repositories across 33 developers using React & Embeds in order to maximize site efficiency & appeal
+* Utilized Next.js to implement Dynamic Data Fetching for a backend leading to expeditious release/update times
 * Maintaining & updating onsite sponsors & advertisement that led to $68,000+ of funding & & 200+ daily visits
