@@ -13,14 +13,14 @@ SKILLS
 
 WORK EXPERIENCE (6 of 17)
 Data Scientist (8 Month Co-Op) 	Thales Group	 Ottawa, ON, Canada, 09/2025 – 04/2026
-* Implemented robust ETL/ELT pipelines to ingest and transform complex operational data for analytical use.
 * Built LLM RAG and Machine Learning models using Python to support high level military applications.
 * Leading the backend design of proof-of-concepts using Python FastAPI, Neo4J Graph databases, and Docker.
+* Implemented robust ETL/ELT pipelines to ingest and transform complex operational data for analytical use.
 
 Full Stack Software Engineer (4 Month Co-Op)	Intuit	 Toronto, ON, Canada, 05/2025 – 09/2025
 * Developed the TurboTax product recommendation flow, boosting $278M, +(9%) revenue, with multivariate testing.
 * Designed new A/B Test flows using TypeScript, React, Kotlin, Java, and Player UI (Intuits open-source tech stack)
-* Led a new Credit Karma to TurboTax customer flow, introducing automated testing with Gen AI for quick adaption.
+* Led a new onboarding app from, introducing automated testing with Gen AI for quick adaption.
 
 Machine Learning Engineer (4 Month Co-Op) 	RBC Gen AI Lab	 Toronto, ON, Canada, 09/2024 – 01/2025
 * Contributed to 3 LLM POCs by gathering user stories and balancing development priorities with business value.
@@ -31,7 +31,7 @@ Machine Learning Engineer (4 Month Co-Op) 	RBC Gen AI Lab	 Toronto, ON, Canada, 
 DevOps Engineer (4 Month Co-Op) 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 05/2024
 * Contributed to Canadian Technology History with a CI/CD pipeline enabling the 48hr acquisition of HSBC to RBC.
 * Reduced Gradle build and deploy time by 15% with Groovy that operate HTTP proxies and Open-Shift Containers.
-* Built 1 Prototype DevOps pipeline with GitHub Actions and Runners, increasing efficiency across 54 Dev Teams.
+* Built a prototype DevOps pipeline with GitHub Actions and Runners, increasing efficiency across 54 Dev Teams.
 * Led a DevOps project tracking 1,000’s of developer commits, enhancing productivity and minimizing disruptions.
 
 Software Developer (8 Month Co-Op) 	Ciena	 Ottawa, ON, Canada, 05/2023 – 12/2023
@@ -47,7 +47,6 @@ Machine Learning Research Assistant 	University of Toronto	 Toronto, ON, Canada,
 
 LEADERSHIP (2 of 13)
 Development Director -> Partnerships Advisor	uOttaHack	 11/2022 – Present
-* Established uOttaHack to rival as Canada’s Largest Hackathon with global participation, benefiting 1,100+ people.
 * Increased company partnerships by 77.8%, funding by 36.3%, project submissions by 55%, attendees by 32%.
 * Built international partnerships with HKUST Hong Kong and Tec de Monterrey Mexico with uOttawa Canada.
 * Directed a team of 30 to develop the official site and live-event site using Node, React, NoSQL and Vercel.
