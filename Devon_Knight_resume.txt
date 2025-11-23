@@ -1,65 +1,57 @@
-Devon Knight: Last Co-Op Summer 2026
- devon.donald.knight@gmail.com	|	 (647) 920-3519	|	 linkedin.com/in/devonknight	|	 github.com/Devcon324
+Devon Knight: Student with 5 Co-Ops in Full-Stack, Data Science, DevOps
+devon.donald.knight@gmail.com	 | 	(647) 920-3519	 | 	 linkedin.com/in/devonknight	 | 	Toronto, Ontario, Canada
 
 EDUCATION
-B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa 	Ottawa, ON, Canada, 12/2026
-* CGPA: 3.95 / 4.00	: Data Structures and Algorithms, Android Dev, Digital Logic, Operating Systems, Linear Algebra.
-* Leadership: World Dragonboat Athlete 2024, Class Rep, Board of Directors, Funding Manager, Deans Honor Roll
+B.A.Sc. Software Engineering (Co-Op) 	University of Ottawa, Canada 	Graduating Winter 2027
+GPA: 3.95 / 4.00 | Class Rep | Deans Honor Roll | Board of Directors | Funding Manager | World Dragonboat Athlete
 
 SKILLS
-* Proficient: Python, FastAPI React, Java, Git, Linux, GitHub, Docker, GPT, CrewAi, Front-End, , HTML/CSS, Agile.
-* Experienced: Unix, Bash, TypeScript, ReactJS/Native, JavaScript, MongoDB, REST APIs, SQL, MySQL, JSON.
-* Familiar: C, C#, Android, Shell, Splunk, Assembly, Groovy, Jenkins, Maven, Gradle, Kubernetes, Node, NEXT, R.
+Languages: 	Python | HTML | CSS | JavaScript | TypeScript | Java | Kotlin | Elixir | C | C# | Shell | Rust
+Web Frameworks: 	FastAPI | React | Spring Boot| PlayerUI | Android | React Native | Node | VITE | NEXT | REST | JWT
+AI Frameworks: 	Keras | Scikit-Learn | Tensorflow | LangChain | Docling | Haystack | Pandas | Numpy | CrewAi
+DevOps CI/CD: 	Groovy | Jenkins | Maven | Gradle | Linux | Git | GitHub Actions | Docker | Kubernetes | NGINX
+Databases: 	Neo4J | ChromaDB | Qdrant | Pinecone | SQL | MySQL | MongoDB | Splunk | Elasticsearch
 
-WORK EXPERIENCE (6 of 17)
-Data Scientist (8 Month Co-Op) 	Thales Group	 Ottawa, ON, Canada, 09/2025 – 04/2026
-* Built LLM RAG and Machine Learning models using Python to support high level military applications.
-* Leading the backend design of proof-of-concepts using Python FastAPI, Neo4J Graph databases, and Docker.
-* Implemented robust ETL/ELT pipelines to ingest and transform complex operational data for analytical use.
+WORK EXPERIENCE (5 of 18)
+Thales - Backend Data Scientist	 Ottawa, On, Canada 	09/2025 – Present
+* Delivered a Full-Stack RAG platform (React, FastAPI, Neo4J, Docker) to query military data with ML insights.
+* Built scalable ETL/ELT pipelines for data embedding of 1000’s PDFs into vector databases with OCR, VLM, Haystack.
+* Led the Backend POCs, implementing graph queries, and containerized microservices for internal and client apps.
 
-Full Stack Software Engineer (4 Month Co-Op)	Intuit	 Toronto, ON, Canada, 05/2025 – 09/2025
-* Developed the TurboTax product recommendation flow, boosting $278M, +(9%) revenue, with multivariate testing.
-* Designed new A/B Test flows using TypeScript, React, Kotlin, Java, and Player UI (Intuits open-source tech stack)
-* Led a new onboarding app from, introducing automated testing with Gen AI for quick adaption.
+Intuit - Full Stack Software Engineer	 Toronto, On, Canada	05/2025 – 09/2025
+* Delivered Kotlin/Java A/B testing framework for a new Credit Karma/TurboTax transition flow for millions of users. 
+* Facilitated Intuit’s internal Generative AI Guild, training 100+ engineers on modern AI tools and best practices.
+* Strengthened Frontend test reliability with AI by creating abstracted Playwright and headless PlayerUI tests.
+* Collaborated with a 23-engineer team for TurboTax onboarding flows that increased revenue by $278M (+9%).
 
-Machine Learning Engineer (4 Month Co-Op) 	RBC Gen AI Lab	 Toronto, ON, Canada, 09/2024 – 01/2025
-* Contributed to 3 LLM POCs by gathering user stories and balancing development priorities with business value.
-* Built an LLM-assisted case generator, enabling instant client resolution, reducing case resolution time by ~70%.
-* Led a LLM project that cleans and validates 500K addresses with 99.99% confidence, saving 1000’s of manhours.
-* Utilized vector databases (Qdrant, ChromaDB, Pinecone) to optimize storage and retrieval, improving efficiency.
+RBC GenAI Lab - Full-Stack ML Engineer	 Toronto, On, Canada 	09/2024 – 01/2025
+* Build RESTful backend services for an agentic-LLM financial guidance system, reducing case-resolution time by 70%.
+* Developed 3 LLM-driven POCs end-to-end with requirements, architecture, quality benchmarks, and client delivery.
+* Delivered a ETL Pipeline for 500K+ address records at 99.96% precision, removing 1000+ hours of manual review. 
+* Implemented RegEx Algorithm & analyzed HereAPI and Cohere resulting in a +37% increase in precision.
+* Improved data processing by 37% with a custom RegEx parsing engine and benchmarks on HereAPI and Cohere.
 
-DevOps Engineer (4 Month Co-Op) 	Royal Bank of Canada	 Toronto, ON, Canada, 01/2024 – 05/2024
-* Contributed to Canadian Technology History with a CI/CD pipeline enabling the 48hr acquisition of HSBC to RBC.
-* Reduced Gradle build and deploy time by 15% with Groovy that operate HTTP proxies and Open-Shift Containers.
-* Built a prototype DevOps pipeline with GitHub Actions and Runners, increasing efficiency across 54 Dev Teams.
-* Led a DevOps project tracking 1,000’s of developer commits, enhancing productivity and minimizing disruptions.
+RBC Capital - DevOps Engineer	 Toronto, On, Canada 	01/2024 – 05/2024
+* Achieved a 15% reduction in Gradle build/deploy time using Groovy HTTP proxies and dependency optimization.
+* Deployed a scalable GitHub Actions pipeline using K8s and OpenShift containers on an RHEL Linux Server 
+* Built monitoring microservices tracking 1000s of developers commits, boosting production velocity of 50+ teams.
+* Spearheaded a centralized SRE/DevOps dashboard (Splunk, Elasticsearch) aggregating CI/CD metrics for 30+ apps.
 
-Software Developer (8 Month Co-Op) 	Ciena	 Ottawa, ON, Canada, 05/2023 – 12/2023
-* Served Google, Amazon, Twitch, Meta, and Microsoft clients with an upgrade to 47 server microservices.
-* Co-led a back-end NoSQL MongoDB database testing feature catching 12+ faults and prevented major incidents.
-* Led 44+ features across 18 repositories using C, Python, JSON, Jenkins, Shell, Linux, Bitbucket, and Git.
-* Implemented a novel Python Unit Test framework with 17 test suites that runs in an impressive 0.10 seconds.
+Ciena - Software Developer	 Ottawa, On, Canada 	05/2023 – 12/2023
+* Led production upgrades across 47 microservices supporting high-traffic clients (Google, Amazon, Meta, Twitch).
+* Built 17 ultra-fast DB migration tests (avg 0.10s) preventing 12 production-blocking failures pre-release.
+* Delivered 40+ features across 20+ codebases using C-programming, Python, and distributed system tooling.
+* Co-designed a NoSQL testing framework that improved data-integrity coverage and improved release stability.
+* Created 20+ Python unit-testing suites adopted across teams to accelerate integration and validation workflows.
 
-Machine Learning Research Assistant 	University of Toronto	 Toronto, ON, Canada, 05/2019 – 09/2022
-* Conducted data-analysis from 28 patients using Python, Microsoft Excel and R-Studio with weekly data-reports.
-* Co-led a clinical study that used Felix AI to address patient concerns showing 83% improved patient outcomes.
-* Co-authored a peer-reviewed publication on ML application in post-operative recovery, cited 25+ times in the field.
+PROJECTS (3 of 36)
+uOttaHack - Director	 Ottawa, On, Canada 	09/2022 – Present
+* Increased company partnerships by 77.8% | funding by 36.3% | project submissions by 55% | attendees by 32%.
+* Secured international partnerships across HKUST (Hong Kong) and Tec de Monterrey (Mexico) alongside uOttawa.
+* Directed a team of 30+ to develop the official site and live-event site using Node, React, MongoDB, and Vercel.
 
-LEADERSHIP (2 of 13)
-Development Director -> Partnerships Advisor	uOttaHack	 11/2022 – Present
-* Increased company partnerships by 77.8%, funding by 36.3%, project submissions by 55%, attendees by 32%.
-* Built international partnerships with HKUST Hong Kong and Tec de Monterrey Mexico with uOttawa Canada.
-* Directed a team of 30 to develop the official site and live-event site using Node, React, NoSQL and Vercel.
+uOttaApply - Student Application Portal
+* MEAN Stack WebApp used by 2500+ hackers to apply for uOttaHack, leveraging Next.js, Firebase & Vercel
 
-Co-Founder	VaporWare Games	 01/2024 – Present
-* Developing 2D games using Godot Game Engine and Aseprite, for an immersive product for content creators.
-* Collaborated with art designers to build gameplay mechanics using C#, creating a working game prototype.
-
-PROJECTS (2 of 22)
-Co-Med 	AI Triage in the ER	 github.com/uOttaHackUofT/Co.med
-* A full-stack AI-assisted hospital triage app using Cohere’s LLM, enabling shorter triage and emergency wait times.
-* Utilized supervised learning to suggest diagnoses and triage levels, offering sources to support medical decisions.
-
-uOttaApp 	Event Data-Tracking	 github.com/Devcon324/uOttaApp
-* Developed an event tracker mobile application that tracked 856+ client attendance, food, and raffle tickets.
-* Built as a full-stack mobile app with React Native, HTML, CSS, JavaScript and Google Cloud’s Firebase
+Rules-Lawyer – Customizable AI Boardgame Chat 
+* Upload a manual PDF and get a custom AI Chat. Buit with FastAPI/TS/React, OCR and VLM Models, Neo4J GraphDB
