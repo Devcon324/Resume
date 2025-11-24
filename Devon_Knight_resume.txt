@@ -31,7 +31,7 @@ RBC GenAI Lab - Full-Stack ML Engineer	 Toronto, On, Canada 	09/2024 – 01/2025
 * Implemented RegEx Algorithm & analyzed HereAPI and Cohere resulting in a +37% increase in precision.
 * Improved data processing by 37% with a custom RegEx parsing engine and benchmarks on HereAPI and Cohere.
 
-RBC Capital - DevOps Engineer	 Toronto, On, Canada 	01/2024 – 05/2024
+RBC Capital - DevOps Software Engineer	 Toronto, On, Canada 	01/2024 – 05/2024
 * Achieved a 15% reduction in Gradle build/deploy time using Groovy HTTP proxies and dependency optimization.
 * Deployed a scalable GitHub Actions pipeline using K8s and OpenShift containers on an RHEL Linux Server 
 * Built monitoring microservices tracking 1000s of developers commits, boosting production velocity of 50+ teams.
@@ -54,4 +54,4 @@ uOttaApply - Student Application Portal
 * MEAN Stack WebApp used by 2500+ hackers to apply for uOttaHack, leveraging Next.js, Firebase & Vercel
 
 Rules-Lawyer – Customizable AI Boardgame Chat 
-* Upload a manual PDF and get a custom AI Chat. Buit with FastAPI/TS/React, OCR and VLM Models, Neo4J GraphDB
+* Upload a manual PDF to a custom AI Chat. Built in JWT Security FastAPI/React, OCR, VLM Models, Neo4J GraphDB
