@@ -1,59 +1,59 @@
 Devon Knight
-devon.donald.knight@gmail.com | (647) 920-3519 | Toronto, Ontario, Canada | www.devonknight.dev | linkedin.com/in/devonknight
+devon.donald.knight@gmail.com, (647) 920-3519, Toronto, Ontario, Canada, www.devonknight.dev, linkedin.com/in/devonknight
 
 EDUCATION
-B.A.Sc. Software Engineering (Co-Op)	 University of Ottawa, Canada 	Graduating 1/2027
-GPA: 3.95 / 4.00 | Featured Co-Op student | SWE Class Rep | 8x Scholarships | World Championship Dragonboat | Deans Honor Roll
+University of Ottawa, Bachelor of Applied Science, Software Engineering (Co-Op)	Graduating Jan 2027
+GPA: 3.95, Featured Co-Op student, Awarded Speaker, Class Rep, 8x Scholarships, World Champion Dragonboat, Deans Honor Roll
 
 SKILLS
-Languages/Tech: 	Python | Java | Typescript | JavaScript | HTML5 | CSS3 | Docker | Kubernetes | Linux |Cisco CCNA
-Web Frameworks: 	FastAPI | React | Spring Boot | React Native | PlayerUI | Node | Vite | NextJS | REST API’s | JWT 
-AI/Data Science: 	Probability | Statistics | Keras | Tensorflow | PyTorch | LangChain | LangGraph | Pandas | Numpy | Haystack
-Databases: 	Neo4J | ChromaDB | Qdrant | Pinecone | SQL | MySQL | PostgreSQL | MongoDB | Firebase
-Communication: 	$77K+ in Sponsorship Deals | 2x Public Speaker at CUSEC | Top 3 Talk at UofT OQUIC | 6x Conference Talks
+Languages: 	Python, Java, Typescript, JavaScript, HTML5, CSS3
+Web Frameworks: 	FastAPI, React, Spring Boot, React Native, PlayerUI, Node, Vite, NextJS, REST API’s, JWT 
+AI and Data Science: 	Probability, Statistics, Keras, Tensorflow, PyTorch, LangChain, LangGraph, Pandas, Numpy, Haystack
+Databases: 	Neo4J, ChromaDB, Qdrant, Pinecone, SQL, MySQL, PostgreSQL, MongoDB, Firebase
+DevOps: 	Docker, Kubernetes, Linux, GitHub Actions, Jenkins, GitLab CI, Splunk, Agile, Git, Cisco CCNA
 
-WORK EXPERIENCE (5 of 7)
-Thales - Data Scientist	 Ottawa, Canada 	9/2025 – Present
-* Led a key project in the $5.2B Contract to defend Canada and granted direct funding to deliver the project to production.
-* Delivered a Full-Stack data platform to query live military data and gain ML predictions using FastAPI, Haystack, Neo4J, Docker.
-* Implemented ML Genetic Algorithms (NSGA-II) and containerized ML microservices for internal and client apps.
+EXPERIENCE
+Thales, Data Scientist	 Ottawa, Canada 	Sept 2025 – Present
+* Spearheaded a pivotal project within a $5.2B Defense Contract, securing direct funding to deliver a full-stack data platform.
+* Oversaw a Full-Stack data platform to query live military data and gain ML predictions using FastAPI, Haystack, Neo4J, Docker.
+* Implemented ML Genetic Algorithms (NSGA-II) to provide heuristic analysis and optimal choices for effortless client decisions.
 * Built scalable ETL pipelines converting raw data tables and documents to embeddings in vector databases with OCR, Haystack.
-* Led Backend development of key projects, building graph queries, and containerized microservices for internal and client apps.
+* Defined Backend development of key projects, building graph queries, and containerized services for internal and client apps.
 
-Intuit - Full Stack Software Engineer	 Toronto, Canada 	5/2025 – 8/2025
+Intuit, Full Stack Software Engineer	 Toronto, Canada 	May 2025 – Aug 2025
 * Developed data-driven webpage variants for customer pricing offers and onboarding flow, in Java/Kotlin, React, PlayerUI.
-* Delivered an automated testing framework in Java for test-driven development of Credit Karma to TurboTax onboarding flow. 
+* Refined an automated testing framework in Java for test-driven development of Credit Karma to TurboTax onboarding flow. 
 * Presented talks in Intuit Toronto’s new Generative AI Guild, training 50+ engineers on the latest open-source Agentic AI tools.
 * Collaborated with a 23-engineer team for TurboTax onboarding flows that achieved an increase in TurboTax revenue by 9%.
 
-Royal Bank of Canada - Machine Learning Engineer	 Toronto, Canada 	9/2024 – 12/2024
-* Delivered a production-level anti-fraud application for 3 countries, validating 500K+ addresses with 99.96% precision. 
-* Built an investment report analyst AI agent using LangChain, reducing review time of earnings reports time by 70%.
+Royal Bank of Canada, Machine Learning Engineer	 Toronto, Canada 	Sept 2024 – Dec 2024
+* Launched a production-level anti-fraud application for 3 countries, validating 500K+ addresses with 99.96% precision. 
+* Designed an investment report analyst AI agent using LangChain, reducing review time of earnings reports time by 70%.
 * Improved data processing by 37% by implementing a custom RegEx parsing algorithm and benchmarks on HereAPI and Cohere.
-* Led communication with clients, deriving functional requirements, and deliverable action items for productive Agile sprints.
+* Guided communication with clients, deriving functional requirements, and deliverable action items for productive Agile sprints.
 
-Royal Bank of Canada - DevOps Engineer	 Toronto, Canada 	1/2024 – 4/2024
-* Built a monitoring microservice that tracks production errors, boosting production velocity of 1000s of engineers.
+Royal Bank of Canada, DevOps Engineer	 Toronto, Canada 	Jan 2024 – April 2024
+* Conducted a monitoring microservice that tracks production errors, boosting production velocity of 1000s of engineers.
 * Spearheaded a DevOps dashboard project with CI/CD metrics for 30+ apps logged in Splunk, Elasticsearch reducing downtime.
 * Replaced Jenkins with a scalable GitHub Actions pipeline using Kubernetes and OpenShift containers on an RHEL Linux Server 
 * Achieved a 15% faster build & deploy time by automating manual build tasks with Gradle, Groovy, & Kubernetes
 
-Ciena - Software Developer	 Ottawa, Canada 	5/2023 – 12/2023
+Ciena, Software Developer	 Ottawa, Canada 	May 2023 – Dec 2023
 * Led production upgrades across 47 microservices supporting high-traffic clients such as Google, Amazon, Meta, Twitch.
-* Built 17 fast DB migration tests (avg 0.10s) using Python and MongoDB, preventing 12+ production-blocking failures pre-release.
-* Delivered 34+ features across 20+ codebases using C, Python, expanding product functionality and improving user satisfaction.
+* Innovated on 17 fast DB migration tests (avg 0.10s) using Python MongoDB, preventing 12+ production failures pre-release.
+* Established 34+ features across 20+ codebases using C, Python, expanding product functionality and improving user satisfaction.
 * Created 20+ Python unit-testing suites for a NoSQL database to accelerate data-integrity and validation workflows.
 
-LEADERSHIP AND PROJECTS (3 of 23)
-uOttaHack - Sponsorship Director/Advisor	 Canada’s Largest Hackathon 	9/2022 – Present
+PROJECTS
+uOttaHack, Sponsorship Director/Advisor	 Canada’s Largest Hackathon 	Sept 2022 – Present
 * Responsible for boosting funding by 36.3%, sponsorship deals by 77.8%, project submissions by 55%, and attendees by 32%.
 * Directed a cross-functional team across Ottawa, Hong Kong and Mexico’s leading universities with University of Ottawa.
 * Capstone Project: Developing a CRM with React, BunJS, FastAPI that will empower hackathons and companies in collaboration.
 
-Research in Cancer and Machine Learning	UofT & Western	8/2020 – 3/2024
-* Research student, used Python and PyMol, to identify genetic targets for children’s cancer, with 18 citations: Paper 1 | Paper 2.
+Research in Cancer and Machine Learning	UofT & Western	Aug 2020 – Mar 2024
+* Research student, used Python and PyMol, to identify genetic targets for children’s cancer, with 18 citations: Paper 1, Paper 2.
 * Data-analyst, found that using Felix AI, an NLP model, boosted post-surgical recovery and saved time, with 49 citations: Paper 3.
 
-Co-Medical - AI Triage Nurse	University of Toronto Hacks 11	1/2024
+Co-Medical - AI Triage Nurse	University of Toronto Hacks 11	Jan 2024
 * Built an LLM-powered Triage consultant web app using Python, Cohere LLM, & NextJS to reduce emergency room waiting time.
 * Utilized Cohere Classify as a supervised learning analogue to provide triage and diagnosis with citations to scientific sources.
