@@ -3,12 +3,12 @@ devon.donald.knight@gmail.com, (647) 920-3519, Toronto, Ontario, Canada, www.dev
 
 EDUCATION
 University of Ottawa, Bachelor of Applied Science, Software Engineering (Co-Op)	Graduating Jan 2027
-GPA: 3.95, Featured Co-Op student, Awarded Speaker, Class Rep, 8x Scholarships, World Champion Dragonboat, Deans Honor Roll
+GPA: 3.95, Stanford University TreeHacks Winner in NVIDIA, Leading Intern, Public Speaker, Class Rep, 8x Scholarships, Dragonboat
 
 SKILLS
 Languages: 	Python, Java, Typescript, JavaScript, HTML5, CSS3
 Web Frameworks: 	FastAPI, React, Spring Boot, React Native, PlayerUI, Node, Vite, NextJS, REST API’s, JWT 
-AI and Data Science: 	Probability, Statistics, Keras, Tensorflow, PyTorch, LangChain, LangGraph, Pandas, Numpy, Haystack
+AI and Data Science: 	PyTorch, Tensorflow, Keras, SciKit, LangChain, LangGraph, Pandas, Numpy, Haystack, Probability, Statistics
 Databases: 	Neo4J, ChromaDB, Qdrant, Pinecone, SQL, MySQL, PostgreSQL, MongoDB, Firebase
 DevOps: 	Docker, Kubernetes, Linux, GitHub Actions, Jenkins, GitLab CI, Splunk, Agile, Git, Cisco CCNA
 
@@ -28,15 +28,15 @@ Intuit, Full Stack Software Engineer	 Toronto, Canada 	May 2025 – Aug 2025
 
 Royal Bank of Canada, Machine Learning Engineer	 Toronto, Canada 	Sept 2024 – Dec 2024
 * Launched a production-level anti-fraud application for 3 countries, validating 500K+ addresses with 99.96% precision. 
-* Designed an investment report analyst AI agent using LangChain, reducing review time of earnings reports time by 70%.
+* Designed an investment report analyst AI agent using LangChain, reducing review time of earnings reports by 70%.
 * Improved data processing by 37% by implementing a custom RegEx parsing algorithm and benchmarks on HereAPI and Cohere.
 * Guided communication with clients, deriving functional requirements, and deliverable action items for productive Agile sprints.
 
-Royal Bank of Canada, DevOps Engineer	 Toronto, Canada 	Jan 2024 – April 2024
+Royal Bank of Canada, DevOps Engineer	 Toronto, Canada 	Jan 2024 – Apr 2024
 * Conducted a monitoring microservice that tracks production errors, boosting production velocity of 1000s of engineers.
 * Spearheaded a DevOps dashboard project with CI/CD metrics for 30+ apps logged in Splunk, Elasticsearch reducing downtime.
 * Replaced Jenkins with a scalable GitHub Actions pipeline using Kubernetes and OpenShift containers on an RHEL Linux Server 
-* Achieved a 15% faster build & deploy time by automating manual build tasks with Gradle, Groovy, & Kubernetes
+* Achieved 15% faster build & deploy time by automating manual build tasks with Gradle, Groovy, & Kubernetes
 
 Ciena, Software Developer	 Ottawa, Canada 	May 2023 – Dec 2023
 * Led production upgrades across 47 microservices supporting high-traffic clients such as Google, Amazon, Meta, Twitch.
@@ -45,6 +45,10 @@ Ciena, Software Developer	 Ottawa, Canada 	May 2023 – Dec 2023
 * Created 20+ Python unit-testing suites for a NoSQL database to accelerate data-integrity and validation workflows.
 
 PROJECTS
+CalTrack – NVIDIA Edge AI Winner	Stanford University TreeHacks	Feb 2026
+* Data-driven disaster response with Apple’s Wi-Fi positioning for ethical use and DGX10 Supercomputer running NVIDIA vLLM’s.
+* Awarded 2nd place being the top 1% of projects submitted amongst the top 6.7% of 15,000 global applicants.
+
 uOttaHack, Sponsorship Director/Advisor	 Canada’s Largest Hackathon 	Sept 2022 – Present
 * Responsible for boosting funding by 36.3%, sponsorship deals by 77.8%, project submissions by 55%, and attendees by 32%.
 * Directed a cross-functional team across Ottawa, Hong Kong and Mexico’s leading universities with University of Ottawa.
@@ -53,7 +57,3 @@ uOttaHack, Sponsorship Director/Advisor	 Canada’s Largest Hackathon 	Sept 2022 –
 Research in Cancer and Machine Learning	UofT & Western	Aug 2020 – Mar 2024
 * Research student, used Python and PyMol, to identify genetic targets for children’s cancer, with 18 citations: Paper 1, Paper 2.
 * Data-analyst, found that using Felix AI, an NLP model, boosted post-surgical recovery and saved time, with 49 citations: Paper 3.
-
-Co-Medical - AI Triage Nurse	University of Toronto Hacks 11	Jan 2024
-* Built an LLM-powered Triage consultant web app using Python, Cohere LLM, & NextJS to reduce emergency room waiting time.
-* Utilized Cohere Classify as a supervised learning analogue to provide triage and diagnosis with citations to scientific sources.
