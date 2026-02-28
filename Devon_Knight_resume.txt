@@ -6,10 +6,10 @@ University of Ottawa, Bachelor of Applied Science, Software Engineering (Co-Op)	
 GPA: 3.95, Stanford University TreeHacks Winner (NVIDIA Edge AI Challenge), Class Rep, World Championship Dragonboat Team
 
 SKILLS
-Languages: 	Python, Java, Typescript, JavaScript, HTML5, CSS3
+Languages: 	Python, Java, C, Typescript, JavaScript, HTML5, CSS3
 Web Frameworks: 	FastAPI, React, Spring Boot, React Native, PlayerUI, Node, Vite, NextJS, REST API’s, JWT 
 AI and Data Science: 	PyTorch, Tensorflow, Keras, SciKit, LangChain, LangGraph, Pandas, Numpy, Haystack, Probability, Statistics
-Databases: 	Neo4J, ChromaDB, Qdrant, Pinecone, SQL, MySQL, PostgreSQL, MongoDB, Firebase
+Databases: 	Neo4J, ChromaDB, Qdrant, Pinecone, SQL, MySQL, PostgreSQL, MongoDB, Firebase, Supabase
 DevOps: 	Docker, Kubernetes, Linux, GitHub Actions, Jenkins, GitLab CI, Splunk, Agile, Git, Cisco CCNA
 
 EXPERIENCE
@@ -20,7 +20,7 @@ Thales, Data Scientist Intern	 Ottawa, Canada 	Sept 2025 – Present
 * Built scalable ETL pipelines converting raw data tables and documents to embeddings in vector databases with OCR, Haystack.
 * Defined Backend development of key projects, building graph queries, and containerized services for internal and client apps.
 
-Intuit, Full Stack Software Engineer Intern	 Toronto, Canada 	May 2025 – Aug 2025
+Intuit, Full Stack Software Developer Intern	 Toronto, Canada 	May 2025 – Aug 2025
 * Developed data-driven webpage variants for customer pricing offers and onboarding flow, in Java/Kotlin, React, PlayerUI.
 * Refined an automated testing framework in Java for test-driven development of Credit Karma to TurboTax onboarding flow. 
 * Presented talks in Intuit Toronto’s new Generative AI Guild, training 50+ engineers on the latest open-source Agentic AI tools.
@@ -46,8 +46,8 @@ Ciena, Software Developer Intern	 Ottawa, Canada 	May 2023 – Dec 2023
 
 PROJECTS
 CalTrack – NVIDIA Edge AI Winner 2nd Place	Stanford University TreeHacks	Feb 2026
-* Simplified crisis prediction by mapping 650K users over high-risk fire zones using an Apple WIFI Hack and NVIDIA Earth2 models.
-* Empowered 911 operators during current crisis with a 911 conversational AI Agent built with Twilio, NVIDIA Speech models.
+* Simplified crisis prediction by mapping 650K users over high-risk fire zones using an Apple WIFI Hack and NVIDIA Earth2 model.
+* Empowered 911 operators during current crisis with a 911 conversational AI Agent built with Twilio, NVIDIA Nemotron models.
 * Extracted impactful data from phone calls using CrewAI to geolocate events and triage for efficient hospital load-balancing.
 
 uOttaHack, Sponsorship Director/Advisor	 Canada’s Largest Hackathon 	Sept 2022 – Present
