@@ -3,6 +3,7 @@ devon.donald.knight@gmail.com, 647-920-3519, Toronto, Ontario, Canada, www.devon
 
 EDUCATION
 University of Ottawa, Bachelor of Applied Science, Software Engineering (Co-Op)	Graduating Dec 2026
+<<<<<<< HEAD
 GPA: 3.9/4.0 • SWE Class Representative • 7x Scholarships • World Championship Dragonboat Team • Deans Honor Roll
 
 SKILLS
@@ -22,6 +23,27 @@ Cisco, Software Engineer Intern	 Ottawa, Canada 	May 2026 – Present
 Thales, Data Scientist Intern	 Ottawa, Canada 	Sept 2025 – May 2026
 * Developed a full-stack ML app supporting a $5.2B defense contract, securing continued funding after stakeholder demos.
 * Designed a Full-Stack data platform to query live military data and gain ML predictions using FastAPI, Haystack, Neo4J, Docker.
+=======
+GPA: 3.95, Stanford University TreeHacks Winner (NVIDIA Edge AI Challenge), Class Rep, World Championship Dragonboat Team
+
+SKILLS
+Languages: 	Python, Java, C, Typescript, JavaScript, HTML5, CSS3
+Web Frameworks: 	FastAPI, React, Spring Boot, React Native, Node, Vite, NextJS, REST APIs, JWT 
+AI and Data Science: 	PyTorch, Tensorflow, Keras, SciKit, LangChain, LangGraph, Pandas, Numpy, Haystack
+Databases: 	Neo4J, ChromaDB, Qdrant, Pinecone, SQL, MySQL, PostgreSQL, MongoDB, Firebase, Supabase
+DevOps: 	Docker, Kubernetes, Linux, GitHub Actions, Jenkins, GitLab CI, Splunk, Agile, Git, Cisco CCNA
+
+EXPERIENCE
+Cisco, Software Engineer	 Ottawa, Canada 	May 2026 – Present
+* Architected a FastAPI mock-generation engine auto-scaffolding C unit-test mocks for Nexus OS, eliminating manual boilerplate.
+* Developed a AI-Leveraged VS Code extension to generate, diff-preview, and apply mocks from a single click for developers.
+* Built a libclang AST pipeline parsing C headers and extracting function signatures despite missing includes and compiler errors.
+* Built a framework-agnostic adapter registry (CMocka, FFF, CppUTest) with Jinja2 templating and Bazel build scaffold generation.
+
+Thales, Data Scientist Intern	 Ottawa, Canada 	Sept 2025 – May 2026
+* Spearheaded a pivotal project within a $5.2B Defense Contract, securing direct funding to deliver a full-stack data platform.
+* Oversaw a Full-Stack data platform to query live military data and gain ML predictions using FastAPI, Haystack, Neo4J, Docker.
+>>>>>>> a62862a828934206f2aff162e718a84ff36e1a51
 * Implemented ML Genetic Algorithms (NSGA-II) to provide heuristic analysis and optimal choices for effortless client decisions.
 * Built scalable ETL pipelines converting raw data tables and documents to embeddings in vector databases with OCR, Haystack.
 
@@ -45,16 +67,27 @@ Royal Bank of Canada, DevOps Engineer Intern	 Toronto, Canada 	Jan 2024 – Apr 20
 
 Ciena, Software Engineer Intern	 Ottawa, Canada 	May 2023 – Dec 2023
 * Led production upgrades across 47 microservices supporting high-traffic clients such as Google, Amazon, Meta, Twitch.
+<<<<<<< HEAD
 * Authored 17 fast DB migration tests (avg 0.10s) using Python and MongoDB, preventing 12+ production failures pre-release.
+=======
+* Authored 17 fast DB migration tests (avg 0.10s) using Python MongoDB, preventing 12+ production failures pre-release.
+* Shipped 34+ features across 20+ codebases using C, Python, expanding product functionality and improving user satisfaction.
+>>>>>>> a62862a828934206f2aff162e718a84ff36e1a51
 * Created 20+ Python unit-testing suites for a NoSQL database to accelerate data-integrity and validation workflows.
 * Shipped 34+ features across 20+ codebases using C, Python, expanding product functionality.
 
 PROJECTS
 CalTrack, NVIDIA Edge AI Winner 2nd Place	Stanford University TreeHacks	Feb 2026
 * Simplified crisis prediction by mapping 650K users over high-risk fire zones using an Apple WIFI Hack and NVIDIA Earth2 model.
+<<<<<<< HEAD
 * Built a forest-fire search and rescue response dashboard powered by AI agents, Twilio, and NVIDIA Nemotron models.
 
 uOttaHack, Director	 Canada’s Largest Hackathon 	Sept 2022 – Present
+=======
+* Empowered 911 operators during current crisis with a 911 conversational AI Agent built with Twilio, NVIDIA Nemotron models.
+
+uOttaHack, Sponsorship Director/Advisor	 Canada’s Largest Hackathon 	Sept 2022 – Present
+>>>>>>> a62862a828934206f2aff162e718a84ff36e1a51
 * Drove funding growth by 36.3%, sponsorship deals by 77.8%, project submissions by 55%, and attendees by 32%.
 * Directed a cross-functional team across Ottawa, Mexico, and Hong Kong’s leading universities with University of Ottawa.
 * Capstone Project: Currently developing a CRM to simplify the hackathon directing experience for students and companies.
